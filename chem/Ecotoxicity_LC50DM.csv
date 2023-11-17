@@ -1,0 +1,350 @@
+TAID,Pubchem CID,IUPAC Name,SMILES,Canonical SMILES,InChIKey,LC50DM
+TOX-28,4510,"1,3-dinitrooxypropan-2-yl nitrate",O([N+](=O)[O-])C(CO[N+](=O)[O-])CO[N+](=O)[O-],O=[N+]([O-])OCC(CO[N+](=O)[O-])O[N+](=O)[O-],SNIOPGDIGTZGOP-UHFFFAOYSA-N,3.8510001
+TOX-475,8814,"4-(2,4,4-trimethylpentan-2-yl)phenol",Oc1ccc(cc1)C(CC(C)(C)C)(C)C,CC(C)(C)CC(C)(C)c1ccc(O)cc1,ISAVYTVYFVQUDY-UHFFFAOYSA-N,6.3600001
+TOX-593,448537,4-[(E)-4-(4-hydroxyphenyl)hex-3-en-3-yl]phenol,Oc1ccc(cc1)/C(=C(CC)/c1ccc(O)cc1)/CC,CC/C(=C(/CC)c1ccc(O)cc1)c1ccc(O)cc1,RGLYKWWBQGJZGM-ISLYRVAYSA-N,5.3699999
+TOX-672,4055,"2-methylnaphthalene-1,4-dione",O=C1c2c(cccc2)C(=O)C=C1C,CC1=CC(=O)c2ccccc2C1=O,MJVAVZPDRWSRRC-UHFFFAOYSA-N,5.5450001
+TOX-877,5794,"5-[2-(2-butoxyethoxy)ethoxymethyl]-6-propyl-1,3-benzodioxole",O1c2cc(CCC)c(cc2OC1)COCCOCCOCCCC,CCCCOCCOCCOCc1cc2c(cc1CCC)OCO2,FIPWRIJSWJWJAI-UHFFFAOYSA-N,5.2909999
+TOX-901,702,ethanol,OCC,CCO,LFQSCWFLJHTTHZ-UHFFFAOYSA-N,0.58700001
+TOX-913,4004,diethyl 2-dimethoxyphosphinothioylsulfanylbutanedioate,S(P(=S)(OC)OC)C(CC(OCC)=O)C(OCC)=O,CCOC(=O)CC(SP(=S)(OC)OC)C(=O)OCC,JXSJBGJIGXNWCI-UHFFFAOYSA-N,7.658
+TOX-1045,679,methylsulfinylmethane,S(=O)(C)C,CS(C)=O,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,0.495
+TOX-1146,7835,2-(chloromethyl)oxirane,ClCC1OC1,ClCC1CO1,BRLQWZUYTZBJKN-UHFFFAOYSA-N,3.5999999
+TOX-1156,4993,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine",Clc1ccc(cc1)-c1c(nc(nc1N)N)CC,CCc1nc(N)nc(N)c1-c1ccc(Cl)cc1,WKSAUQYGYAYLPV-UHFFFAOYSA-N,4.632
+TOX-1192,40326,"(3-phenoxyphenyl)methyl 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",ClC(Cl)=CC1C(C)(C)C1C(OCc1cc(Oc2ccccc2)ccc1)=O,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc1cccc(Oc2ccccc2)c1,RLLPVAHGXHCWKJ-UHFFFAOYSA-N,7.902
+TOX-1253,3117,"diethylcarbamothioylsulfanyl N,N-diethylcarbamodithioate",S(SC(=S)N(CC)CC)C(=S)N(CC)CC,CCN(CC)C(=S)SSC(=S)N(CC)CC,AUZONCFQVSMFAP-UHFFFAOYSA-N,6.3930001
+TOX-1273,727,"1,2,3,4,5,6-hexachlorocyclohexane",ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,JLYXXMFPNIAWKQ-UHFFFAOYSA-N,5.211
+TOX-1698,323,chromen-2-one,O=c1ccc2ccccc2o1,O=c1ccc2ccccc2o1,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,4.0339999
+TOX-1704,22311,1-methyl-4-prop-1-en-2-ylcyclohexene,C=C(C)C1CC=C(C)CC1,C=C(C)C1CC=C(C)CC1,XMGQYMWWDOXHJM-UHFFFAOYSA-N,6.6430001
+TOX-1705,931,naphthalene,c1ccc2ccccc2c1,c1ccc2ccccc2c1,UFWIBTONFRDIAS-UHFFFAOYSA-N,4.0510001
+TOX-1708,7991,pentanoic acid,CCCCC(=O)O,CCCCC(=O)O,NQPDZGIKBAWPEJ-UHFFFAOYSA-N,3.3559999
+TOX-1710,7452,"1,3-dinitrobenzene",O=[N+]([O-])c1cccc([N+](=O)[O-])c1,O=[N+]([O-])c1cccc([N+](=O)[O-])c1,WDCYWAQPCXBPJA-UHFFFAOYSA-N,3.592
+TOX-1712,8376,"2-methyl-1,3,5-trinitrobenzene",Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],SPSSULHKWOKEEL-UHFFFAOYSA-N,4.4089999
+TOX-1713,1493,"2,4-dinitrophenol",O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(O)c([N+](=O)[O-])c1,UFBJCMHMOXMLKC-UHFFFAOYSA-N,4.592
+TOX-1717,8663,naphthalen-2-ol,Oc1ccc2ccccc2c1,Oc1ccc2ccccc2c1,JWAZRIHNYRIHIV-UHFFFAOYSA-N,4.6100001
+TOX-1765,2256,"6-chloro-4-N-ethyl-2-N-propan-2-yl-1,3,5-triazine-2,4-diamine",CCNc1nc(Cl)nc(NC(C)C)n1,CCNc1nc(Cl)nc(NC(C)C)n1,MXWJVTOOROXGIU-UHFFFAOYSA-N,4.3610001
+TOX-1810,25429,methyl N-(1H-benzimidazol-2-yl)carbamate,COC(=O)Nc1nc2ccccc2[nH]1,COC(=O)Nc1nc2ccccc2[nH]1,TWFZGCMQGLPBSX-UHFFFAOYSA-N,6.2690001
+TOX-1839,299,"1,2,3,4,6,7,8,9,10,10-decachloropentacyclo[5.3.0.02,6.03,9.04,8]decan-5-one",O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,O=C1C2(Cl)C3(Cl)C4(Cl)C(Cl)(Cl)C5(Cl)C3(Cl)C1(Cl)C5(Cl)C24Cl,LHHGDZSESBACKH-UHFFFAOYSA-N,6.3940001
+TOX-1869,2879,4-methylphenol,Cc1ccc(O)cc1,Cc1ccc(O)cc1,IWDCLRJOBJJRNH-UHFFFAOYSA-N,3.71
+TOX-1878,4685,"1,4-dichlorobenzene",Clc1ccc(Cl)cc1,Clc1ccc(Cl)cc1,OCJBOOLMMGQPQU-UHFFFAOYSA-N,4.1300001
+TOX-1912,6795,"7,10-diazoniatricyclo[8.4.0.02,7]tetradeca-1(14),2,4,6,10,12-hexaene",c1cc[n+]2c(c1)-c1cccc[n+]1CC2,c1cc[n+]2c(c1)-c1cccc[n+]1CC2,SYJFEGQWDCRVNX-UHFFFAOYSA-N,5.138
+TOX-1954,6049,2-[2-[bis(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetic acid,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,O=C(O)CN(CCN(CC(=O)O)CC(=O)O)CC(=O)O,KCXVZYZYPLLWCC-UHFFFAOYSA-N,3.1029999
+TOX-2002,3589,"1,5,7,8,9,10,10-heptachlorotricyclo[5.2.1.02,6]deca-3,8-diene",ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C(Cl)C=CC3C1(Cl)C2(Cl)Cl,FRCCEHPWNOQAEU-UHFFFAOYSA-N,6.5120001
+TOX-2069,4115,"1-methoxy-4-[2,2,2-trichloro-1-(4-methoxyphenyl)ethyl]benzene",COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,COc1ccc(C(c2ccc(OC)cc2)C(Cl)(Cl)Cl)cc1,IAKOZHOLGAGEJT-UHFFFAOYSA-N,7.335
+TOX-2070,7515,N-methylaniline,CNc1ccccc1,CNc1ccccc1,AFBPFSWMIHJQDM-UHFFFAOYSA-N,5.7909999
+TOX-2121,7239,"1,2-dichlorobenzene",Clc1ccccc1Cl,Clc1ccccc1Cl,RFFLAFLAYFXFSW-UHFFFAOYSA-N,4.8060002
+TOX-2156,996,phenol,Oc1ccccc1,Oc1ccccc1,ISWSIDIOOBJBQZ-UHFFFAOYSA-N,3.8499999
+TOX-2159,7673,isothiocyanatobenzene,S=C=Nc1ccccc1,S=C=Nc1ccccc1,QKFJKGMPGYROCL-UHFFFAOYSA-N,6.131
+TOX-2161,6954,"2,4,6-trinitrophenol",O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1,O=[N+]([O-])c1cc([N+](=O)[O-])c(O)c([N+](=O)[O-])c1,OXNIZHLAWKMVMX-UHFFFAOYSA-N,3.431
+TOX-2190,1049,pyridine,c1ccncc1,c1ccncc1,JUJWROOIHBZHMG-UHFFFAOYSA-N,1.829
+TOX-2235,7501,styrene,C=Cc1ccccc1,C=Cc1ccccc1,PPBRXRYQALVLMV-UHFFFAOYSA-N,3.451
+TOX-2359,7808,4-bromophenol,Oc1ccc(Br)cc1,Oc1ccc(Br)cc1,GZFGOTFRPZRKDS-UHFFFAOYSA-N,4.4640002
+TOX-2390,6574,"1,1,2-trichloroethane",ClCC(Cl)Cl,ClCC(Cl)Cl,UBOXGVDOUJQMTN-UHFFFAOYSA-N,3.4920001
+TOX-2407,180,propan-2-one,CC(C)=O,CC(C)=O,CSCPPACGZOOCGX-UHFFFAOYSA-N,0.67199999
+TOX-2497,5558,bromoform,BrC(Br)Br,BrC(Br)Br,DIKBFYAXUHHXCS-UHFFFAOYSA-N,3.74
+TOX-2535,6212,chloroform,ClC(Cl)Cl,ClC(Cl)Cl,HEDRZPFGACZZDS-UHFFFAOYSA-N,3.2539999
+TOX-2608,7095,"1,1'-biphenyl",c1ccc(-c2ccccc2)cc1,c1ccc(-c2ccccc2)cc1,ZUOUZKKEUPVFJK-UHFFFAOYSA-N,4.9089999
+TOX-2920,6419,"1,1,1,2,2-pentachloroethane",ClC(Cl)C(Cl)(Cl)Cl,ClC(Cl)C(Cl)(Cl)Cl,BNIXVQGCZULYKV-UHFFFAOYSA-N,4.4029999
+TOX-2968,1032,propanoic acid,CCC(=O)O,CCC(=O)O,XBDQKXXYIPTUBI-UHFFFAOYSA-N,3.171
+TOX-2969,6564,"1,2-dichloropropane",CC(Cl)CCl,CC(Cl)CCl,KNKRKFALVUDBJE-UHFFFAOYSA-N,3.306
+TOX-3073,5943,tetrachloromethane,ClC(Cl)(Cl)Cl,ClC(Cl)(Cl)Cl,VZGDMQKNWNREIO-UHFFFAOYSA-N,3.6429999
+TOX-3074,31373,"1,1,2,2-tetrachloroethene",ClC(Cl)=C(Cl)Cl,ClC(Cl)=C(Cl)Cl,CYTYCFOTNPOANT-UHFFFAOYSA-N,3.964
+TOX-3122,6366,"1,1-dichloroethene",C=C(Cl)Cl,C=C(Cl)Cl,LGXVIGDEPROXKC-UHFFFAOYSA-N,3.506
+TOX-3146,1140,toluene,Cc1ccccc1,Cc1ccccc1,YXFVVABEGXRONW-UHFFFAOYSA-N,2.9749999
+TOX-3150,460,2-methoxyphenol,COc1ccccc1O,COc1ccccc1O,LHGVFZTZFXWLCP-UHFFFAOYSA-N,3.6800001
+TOX-3151,4684,4-chlorophenol,Oc1ccc(Cl)cc1,Oc1ccc(Cl)cc1,WXNZTHHGJRFXKQ-UHFFFAOYSA-N,4.4260001
+TOX-3156,5455,"dimethylcarbamothioylsulfanyl N,N-dimethylcarbamodithioate",CN(C)C(=S)SSC(=S)N(C)C,CN(C)C(=S)SSC(=S)N(C)C,KUAZQDVKQLNFPE-UHFFFAOYSA-N,6.059
+TOX-3892,11,"1,2-dichloroethane",ClCCCl,ClCCCl,WSLDOOZREJYCGB-UHFFFAOYSA-N,2.527
+TOX-3895,8343,"bis(2-ethylhexyl) benzene-1,2-dicarboxylate",CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)c1ccccc1C(=O)OCC(CC)CCCC,BJQHLKABXJIVAM-UHFFFAOYSA-N,4.5500002
+TOX-3906,174,"ethane-1,2-diol",OCCO,OCCO,LYCAIKOWRPUZTN-UHFFFAOYSA-N,0.117
+TOX-3980,2723949,ethanethioamide,CC(N)=S,CC(N)=S,YUKQRDCYNOVPGJ-UHFFFAOYSA-N,3.635
+TOX-3982,6575,"1,1,2-trichloroethene",ClC=C(Cl)Cl,ClC=C(Cl)Cl,XSTXAVWGXDQKEL-UHFFFAOYSA-N,3.378
+TOX-3989,12281,"3,5-dichloroaniline",Nc1cc(Cl)cc(Cl)c1,Nc1cc(Cl)cc(Cl)c1,UQRLKWGPEVNVHT-UHFFFAOYSA-N,5.1599998
+TOX-4004,6129,naphthalen-1-yl N-methylcarbamate,CNC(=O)Oc1cccc2ccccc12,CNC(=O)Oc1cccc2ccccc12,CVXBEEMKQHEXEN-UHFFFAOYSA-N,5.3039999
+TOX-4113,5853,"2,2,2-trichloro-1-dimethoxyphosphorylethanol",COP(=O)(OC)C(O)C(Cl)(Cl)Cl,COP(=O)(OC)C(O)C(Cl)(Cl)Cl,NFACJZMKEDPNKN-UHFFFAOYSA-N,9.0880003
+TOX-4135,440917,(4R)-1-methyl-4-prop-1-en-2-ylcyclohexene,C=C(C)[C@H]1CC=C(C)CC1,C=C(C)[C@H]1CC=C(C)CC1,XMGQYMWWDOXHJM-JTQLQIEISA-N,5.2709999
+TOX-4170,3036,"1-chloro-4-[2,2,2-trichloro-1-(4-chlorophenyl)ethyl]benzene",Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,YVGGHNCTFXOJCH-UHFFFAOYSA-N,7.4699998
+TOX-4304,991,diethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,CCOP(=S)(OCC)Oc1ccc([N+](=O)[O-])cc1,LCCNCVORNKJIRZ-UHFFFAOYSA-N,8.2690001
+TOX-4305,5954,benzo[a]anthracene,c1ccc2cc3c(ccc4ccccc43)cc2c1,c1ccc2cc3c(ccc4ccccc43)cc2c1,DXBHBZVCASKNBY-UHFFFAOYSA-N,6.2189999
+TOX-4324,6028,"2,3,4,6-tetrachlorophenol",Oc1c(Cl)cc(Cl)c(Cl)c1Cl,Oc1c(Cl)cc(Cl)c(Cl)c1Cl,,6.006
+TOX-4332,1732,4-chloro-3-methylphenol,Cc1cc(O)ccc1Cl,Cc1cc(O)ccc1Cl,CFKMVGJGLGKFKI-UHFFFAOYSA-N,4.8530002
+TOX-4351,3082,2-dimethoxyphosphinothioylsulfanyl-N-methylacetamide,CNC(=O)CSP(=S)(OC)OC,CNC(=O)CSP(=S)(OC)OC,MCWXGJITAZMZEV-UHFFFAOYSA-N,5.1430001
+TOX-4353,3048,"3,4,5,6,13,13-hexachloro-10-oxapentacyclo[6.3.1.13,6.02,7.09,11]tridec-4-ene",ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4CC(C5OC45)C3C1(Cl)C2(Cl)Cl,DFBKLUNHFCTMDC-UHFFFAOYSA-N,6.428
+TOX-4369,2723790,thiourea,NC(N)=S,NC(N)=S,UMGDCJDMYOKAJW-UHFFFAOYSA-N,3.927
+TOX-4374,3039,"2,2-dichloroethenyl dimethyl phosphate",COP(=O)(OC)OC=C(Cl)Cl,COP(=O)(OC)OC=C(Cl)Cl,OEBRKCOSUFCWJD-UHFFFAOYSA-N,9.415
+TOX-4406,6184,hexanal,CCCCCC=O,CCCCCC=O,JARKCYVAAOWBJS-UHFFFAOYSA-N,4.039
+TOX-4430,887,methanol,CO,CO,OKKJLVBELUTLKV-UHFFFAOYSA-N,0.98900002
+TOX-4433,6214,"1,1,1,2,2,2-hexachloroethane",ClC(Cl)(Cl)C(Cl)(Cl)Cl,ClC(Cl)(Cl)C(Cl)(Cl)Cl,VHHHONWQHHHLTI-UHFFFAOYSA-N,4.9429998
+TOX-4437,6228,"N,N-dimethylformamide",CN(C)C=O,CN(C)C=O,ZMXDDKWLCZADIW-UHFFFAOYSA-N,0.70599997
+TOX-4464,1031,propan-1-ol,CCCO,CCCO,BDERNNFJNOPAEC-UHFFFAOYSA-N,0.94400001
+TOX-4469,6278,"1,1,1-trichloroethane",CC(Cl)(Cl)Cl,CC(Cl)(Cl)Cl,UOCLXMDMGBRAIB-UHFFFAOYSA-N,4.0760002
+TOX-4492,6323,bromomethane,CBr,CBr,GZUXJHMPEANEGY-UHFFFAOYSA-N,4.6350002
+TOX-4496,674,N-methylmethanamine,CNC,CNC,ROSDSFDQCJNGOL-UHFFFAOYSA-N,2.9549999
+TOX-4501,6342,acetonitrile,CC#N,CC#N,WEVYAHXRMPXWCK-UHFFFAOYSA-N,1.057
+TOX-4503,6343,ethanethiol,CCS,CCS,DNJIEGIFACGWOD-UHFFFAOYSA-N,5.5630002
+TOX-4504,6344,dichloromethane,ClCCl,ClCCl,YMWUJEATGCHHMB-UHFFFAOYSA-N,2.5869999
+TOX-4509,6354,oxirane,C1CO1,C1CO1,IAYPIBMASNFSPL-UHFFFAOYSA-N,2.3429999
+TOX-4558,6478,"1,2,3,4,5,5-hexachlorocyclopenta-1,3-diene",ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl,ClC1=C(Cl)C(Cl)(Cl)C(Cl)=C1Cl,VUNCWTMEJYMOOR-UHFFFAOYSA-N,6.7810001
+TOX-4568,6492,"tricyclo[5.2.1.02,6]deca-3,8-diene",C1=CC2C3C=CC(C3)C2C1,C1=CC2C3C=CC(C3)C2C1,HECLRDQVFMWTQS-UHFFFAOYSA-N,4.0999999
+TOX-4609,6544,"3,5,5-trimethylcyclohex-2-en-1-one",CC1=CC(=O)CC(C)(C)C1,CC1=CC(=O)CC(C)(C)C1,HJOVHMDZYOCNQW-UHFFFAOYSA-N,3.0610001
+TOX-4621,6560,2-methylpropan-1-ol,CC(C)CO,CC(C)CO,ZXEKIIBDNHEJCQ-UHFFFAOYSA-N,1.826
+TOX-4633,6573,"1,1-dichloropropane",CCC(Cl)Cl,CCC(Cl)Cl,WIHMGGWNMISDNJ-UHFFFAOYSA-N,3.691
+TOX-4635,6579,prop-2-enamide,C=CC(N)=O,C=CC(N)=O,HRPVXLWXLXDGHG-UHFFFAOYSA-N,2.648
+TOX-4646,6591,"1,1,2,2-tetrachloroethane",ClC(Cl)C(Cl)Cl,ClC(Cl)C(Cl)Cl,QPFMBZIOSGYJDE-UHFFFAOYSA-N,3.4690001
+TOX-4657,6616,"2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane",C=C1C2CCC(C2)C1(C)C,C=C1C2CCC(C2)C1(C)C,CRPUJAZIXJMDBK-UHFFFAOYSA-N,3.7920001
+TOX-4664,6623,4-[2-(4-hydroxyphenyl)propan-2-yl]phenol,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,IISBACLAFKSPIT-UHFFFAOYSA-N,4.2509999
+TOX-4684,6654,"2,6,6-trimethylbicyclo[3.1.1]hept-2-ene",CC1=CCC2CC1C2(C)C,CC1=CCC2CC1C2(C)C,GRWFGVWFFZKLTI-UHFFFAOYSA-N,3.5220001
+TOX-4732,6734,"1,2-dihydroacenaphthylene",c1cc2c3c(cccc3c1)CC2,c1cc2c3c(cccc3c1)CC2,CWRYPZZKDGJXCA-UHFFFAOYSA-N,5.3790002
+TOX-4735,6740,1-chloro-2-methyl-3-nitrobenzene,Cc1c(Cl)cccc1[N+](=O)[O-],Cc1c(Cl)cccc1[N+](=O)[O-],XCSNRORTQRKCHB-UHFFFAOYSA-N,4.6110001
+TOX-4758,6781,"diethyl benzene-1,2-dicarboxylate",CCOC(=O)c1ccccc1C(=O)OCC,CCOC(=O)c1ccccc1C(=O)OCC,FLKPEMZONWLCSK-UHFFFAOYSA-N,3.6129999
+TOX-4761,3026,"dibutyl benzene-1,2-dicarboxylate",CCCCOC(=O)c1ccccc1C(=O)OCCCC,CCCCOC(=O)c1ccccc1C(=O)OCCCC,DOIRQSBPFJWKBE-UHFFFAOYSA-N,4.8759999
+TOX-4770,995,phenanthrene,c1ccc2c(c1)ccc1ccccc12,c1ccc2c(c1)ccc1ccccc12,YNPNZTXNASCQKK-UHFFFAOYSA-N,5.3660002
+TOX-4782,2347,"2-O-benzyl 1-O-butyl benzene-1,2-dicarboxylate",CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,IRIAEXORFWYRCZ-UHFFFAOYSA-N,4.3850002
+TOX-4841,992,"2,3,4,5,6-pentachlorophenol",Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,IZUPBVBPLAPZRR-UHFFFAOYSA-N,5.5219998
+TOX-4847,6914,"2,4,6-trichlorophenol",Oc1c(Cl)cc(Cl)cc1Cl,Oc1c(Cl)cc(Cl)cc1Cl,LINPIYWFGCPVIE-UHFFFAOYSA-N,5.1469998
+TOX-4867,6944,1-methyl-2-nitrobenzene,Cc1ccccc1[N+](=O)[O-],Cc1ccccc1[N+](=O)[O-],PLAZTCDQAHEYBI-UHFFFAOYSA-N,4.1440001
+TOX-4868,6945,1-chloro-2-nitrobenzene,O=[N+]([O-])c1ccccc1Cl,O=[N+]([O-])c1ccccc1Cl,BFCFYVKQTRLZHA-UHFFFAOYSA-N,3.6619999
+TOX-4870,6947,2-nitrophenol,O=[N+]([O-])c1ccccc1O,O=[N+]([O-])c1ccccc1O,IQUPABOKLQSFBK-UHFFFAOYSA-N,4.0240002
+TOX-4872,6950,"2-butan-2-yl-4,6-dinitrophenol",CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,OWZPCEFYPSAJFR-UHFFFAOYSA-N,6
+TOX-4884,6977,"1,4-dichloro-2-nitrobenzene",O=[N+]([O-])c1cc(Cl)ccc1Cl,O=[N+]([O-])c1cc(Cl)ccc1Cl,RZKKOBGFCAHLCZ-UHFFFAOYSA-N,4.2420001
+TOX-4895,6998,2-hydroxybenzaldehyde,O=Cc1ccccc1O,O=Cc1ccccc1O,SMQUZDBALVYZAC-UHFFFAOYSA-N,4.474
+TOX-4897,7000,2-methoxyaniline,COc1ccccc1N,COc1ccccc1N,VMPITZXILSNTON-UHFFFAOYSA-N,4.0110002
+TOX-4901,7003,1-chloronaphthalene,Clc1cccc2ccccc12,Clc1cccc2ccccc12,JTPNRXUCIXHOKM-UHFFFAOYSA-N,5.007
+TOX-4932,7047,quinoline,c1ccc2ncccc2c1,c1ccc2ncccc2c1,SMWDFEZZVXVKRB-UHFFFAOYSA-N,3.5309999
+TOX-4977,7103,4-phenylphenol,Oc1ccc(-c2ccccc2)cc1,Oc1ccc(-c2ccccc2)cc1,YXVFYQXJAXKLAK-UHFFFAOYSA-N,4.6669998
+TOX-4982,7107,9H-xanthene,c1ccc2c(c1)Cc1ccccc1O2,c1ccc2c(c1)Cc1ccccc1O2,GJCOSYZMQJWQCA-UHFFFAOYSA-N,3.9530001
+TOX-5078,11418,2-methylcyclohexan-1-ol,Cc1ccccc1O,Cc1ccccc1O,NDVWOBYBJYUSMF-UHFFFAOYSA-N,3.855
+TOX-5080,7240,2-chloroaniline,Nc1ccccc1Cl,Nc1ccccc1Cl,AKCRQHGQIJBRMN-UHFFFAOYSA-N,5.461
+TOX-5082,7242,2-methylaniline,Cc1ccccc1N,Cc1ccccc1N,RNVCVTLRINQCPJ-UHFFFAOYSA-N,5.3140001
+TOX-5085,7245,2-chlorophenol,Oc1ccccc1Cl,Oc1ccccc1Cl,ISPYQTSUDJAMAB-UHFFFAOYSA-N,4.2379999
+TOX-5093,7257,"3,4-dichloroaniline",Nc1ccc(Cl)c(Cl)c1,Nc1ccc(Cl)c(Cl)c1,SDYWXFYBZPNOFX-UHFFFAOYSA-N,5.7470002
+TOX-5097,7262,"2,5-dichloroaniline",Nc1cc(Cl)ccc1Cl,Nc1cc(Cl)ccc1Cl,AVYGCQXNNJPXSS-UHFFFAOYSA-N,4.744
+TOX-5104,7271,"2,4,5-trichlorophenol",Oc1cc(Cl)c(Cl)cc1Cl,Oc1cc(Cl)c(Cl)cc1Cl,LHJGJYXLEPZJPM-UHFFFAOYSA-N,4.921
+TOX-5127,2723650,imidazolidine-2-thione,S=C1NCCN1,S=C1NCCN1,PDQAZBWRQCGBEV-UHFFFAOYSA-N,3.5880001
+TOX-5140,6,"1-chloro-2,4-dinitrobenzene",O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,VYZAHLCBVHPDDF-UHFFFAOYSA-N,5.4029999
+TOX-5160,7347,"dimethylcarbamothioyl N,N-dimethylcarbamodithioate",CN(C)C(=S)SC(=S)N(C)C,CN(C)C(=S)SC(=S)N(C)C,REQPQFUJGGOFQL-UHFFFAOYSA-N,4.8559999
+TOX-5201,7406,cumene,CC(C)c1ccccc1,CC(C)c1ccccc1,RWGFKTVRMDUZSP-UHFFFAOYSA-N,3.684
+TOX-5210,7416,nitrobenzene,O=[N+]([O-])c1ccccc1,O=[N+]([O-])c1ccccc1,LQNUZADURLCDLV-UHFFFAOYSA-N,3.6589999
+TOX-5216,7422,1-methyl-3-nitrobenzene,Cc1cccc([N+](=O)[O-])c1,Cc1cccc([N+](=O)[O-])c1,QZYHIOPPLUPUJF-UHFFFAOYSA-N,4.0770001
+TOX-5245,7462,"1-methyl-4-propan-2-ylcyclohexa-1,3-diene",CC1=CC=C(C(C)C)CC1,CC1=CC=C(C(C)C)CC1,YHQGMYUVUMAZJR-UHFFFAOYSA-N,4.8670001
+TOX-5246,7463,1-methyl-4-propan-2-ylbenzene,Cc1ccc(C(C)C)cc1,Cc1ccc(C(C)C)cc1,HFPZCAJZSCWRBC-UHFFFAOYSA-N,4.3150001
+TOX-5254,7473,1-methyl-4-nitrobenzene,Cc1ccc([N+](=O)[O-])cc1,Cc1ccc([N+](=O)[O-])cc1,ZPTVNYMJQHSSEA-UHFFFAOYSA-N,4.0599999
+TOX-5255,7474,1-chloro-4-nitrobenzene,O=[N+]([O-])c1ccc(Cl)cc1,O=[N+]([O-])c1ccc(Cl)cc1,CZGCEKJOLUNIFY-UHFFFAOYSA-N,4.3099999
+TOX-5257,980,4-nitrophenol,O=[N+]([O-])c1ccc(O)cc1,O=[N+]([O-])c1ccc(O)cc1,BTJIUGUIPKRLHP-UHFFFAOYSA-N,4.072
+TOX-5274,7500,ethylbenzene,CCc1ccccc1,CCc1ccccc1,YNQLUTRBYVCPMQ-UHFFFAOYSA-N,3.7609999
+TOX-5280,240,benzaldehyde,O=Cc1ccccc1,O=Cc1ccccc1,HUMNYLRZRPPJDN-UHFFFAOYSA-N,3.9760001
+TOX-5310,7547,"1-(4-chlorophenyl)-3-(3,4-dichlorophenyl)urea",O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1,O=C(Nc1ccc(Cl)cc1)Nc1ccc(Cl)c(Cl)c1,ICUTUKXCWQYESQ-UHFFFAOYSA-N,7.4780002
+TOX-5335,7583,phenoxybenzene,c1ccc(Oc2ccccc2)cc1,c1ccc(Oc2ccccc2)cc1,USIUVYZYUHIAEV-UHFFFAOYSA-N,5.4050002
+TOX-5348,700999,"1,3-diphenylthiourea",S=C(Nc1ccccc1)Nc1ccccc1,S=C(Nc1ccccc1)Nc1ccccc1,FCSHMCFRCYZTRQ-UHFFFAOYSA-N,3.5320001
+TOX-5381,7641,bis(2-ethylhexyl) hexanedioate,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,SAOKZLXYCUGLFA-UHFFFAOYSA-N,5.7490001
+TOX-5405,21609,N-ethylcyclohexanamine,CCNc1ccccc1,CCNc1ccccc1,AGVKXDPPPSLISR-UHFFFAOYSA-N,5.46
+TOX-5415,676454,phenylthiourea,NC(=S)Nc1ccccc1,NC(=S)Nc1ccccc1,FULZLIGZKMKICU-UHFFFAOYSA-N,3.4119999
+TOX-5454,7732,4-methoxyaniline,COc1ccc(N)cc1,COc1ccc(N)cc1,BHAAPTBBJKJZER-UHFFFAOYSA-N,5.572
+TOX-5471,7749,ethyl propanoate,CCOC(=O)CC,CCOC(=O)CC,FKRCODPIKNYEAC-UHFFFAOYSA-N,2.8369999
+TOX-5482,2735009,"1,3-diethylthiourea",CCNC(=S)NCC,CCNC(=S)NCC,FLVIGYVXZHLUHP-UHFFFAOYSA-N,2.836
+TOX-5490,7771,"2,4-dimethylphenol",Cc1ccc(O)c(C)c1,Cc1ccc(O)c(C)c1,KUFFULVDNCHOFZ-UHFFFAOYSA-N,4.7649999
+TOX-5518,7809,"1,4-xylene",Cc1ccc(C)cc1,Cc1ccc(C)cc1,URLKBWYHVLBVBO-UHFFFAOYSA-N,3.517
+TOX-5521,7812,4-chloroaniline,Nc1ccc(Cl)cc1,Nc1ccc(Cl)cc1,QSNSCYSYFYORTR-UHFFFAOYSA-N,6.4070001
+TOX-5547,7847,prop-2-enal,C=CC=O,C=CC=O,HGINCPLSRVDWNT-UHFFFAOYSA-N,5.8299999
+TOX-5548,7848,propane-1-thiol,CCCS,CCCS,SUVIGLJNEAMWEG-UHFFFAOYSA-N,6.1040001
+TOX-5551,34,2-chloroethanol,OCCCl,OCCCl,SZIFAVKTNFCBPC-UHFFFAOYSA-N,2.582
+TOX-5554,7853,prop-2-en-1-amine,C=CCN,C=CCN,VVJKKWFAADXIJK-UHFFFAOYSA-N,3.128
+TOX-5556,7855,prop-2-enenitrile,C=CC#N,C=CC#N,NLHHRLWOUZZQLW-UHFFFAOYSA-N,3.7839999
+TOX-5558,3301,"ethane-1,2-diamine",NCCN,NCCN,PIICEJLVQHRZGT-UHFFFAOYSA-N,3.3559999
+TOX-5593,264,butanoic acid,CCCC(=O)O,CCCC(=O)O,FERIUCNNQQJTOY-UHFFFAOYSA-N,3.1600001
+TOX-5604,7912,N-propan-2-ylpropan-2-amine,CC(C)NC(C)C,CC(C)NC(C)C,UAOMVDZJSHZZME-UHFFFAOYSA-N,2.3540001
+TOX-5618,11566,3-methylcyclohexan-1-ol,Cc1cccc(O)c1,Cc1cccc(O)c1,HTSABYAWKQAHBT-UHFFFAOYSA-N,3.76
+TOX-5620,7932,3-chloroaniline,Nc1cccc(Cl)c1,Nc1cccc(Cl)c1,PNPCRKVUWYDDST-UHFFFAOYSA-N,6.1059999
+TOX-5622,7934,3-methylaniline,Cc1cccc(N)c1,Cc1cccc(N)c1,JJYPMNFTHPTTDI-UHFFFAOYSA-N,5.1669998
+TOX-5669,2723622,"1,3-dibutylthiourea",CCCCNC(=S)NCCCC,CCCCNC(=S)NCCCC,KFFQABQEJATQAT-UHFFFAOYSA-N,3.756
+TOX-5741,8079,cyclohexene,C1=CCCCC1,C1=CCCCC1,HGCIXCUEYOPUTN-UHFFFAOYSA-N,3.941
+TOX-5772,8113,2-(2-hydroxyethylamino)ethanol,OCCNCCO,OCCNCCO,ZBCBWPMODOFKDW-UHFFFAOYSA-N,2.98
+TOX-5774,8115,1-chloro-2-(2-chloroethoxy)ethane,ClCCOCCCl,ClCCOCCCl,ZNSMNVMLTJELDZ-UHFFFAOYSA-N,2.7750001
+TOX-5787,8129,heptan-1-ol,CCCCCCCO,CCCCCCCO,BBMCTIGTTCKYKF-UHFFFAOYSA-N,3.233
+TOX-5796,8146,2-(2-ethoxyethoxy)ethanol,CCOCCOCCO,CCOCCOCCO,XXJWXESWEXIICW-UHFFFAOYSA-N,1.531
+TOX-5797,8147,1-chloro-2-(2-chloroethoxymethoxy)ethane,ClCCOCOCCCl,ClCCOCOCCCl,NLXGURFLBLRZRO-UHFFFAOYSA-N,2.9349999
+TOX-5811,8172,2-[2-(2-hydroxyethoxy)ethoxy]ethanol,OCCOCCOCCO,OCCOCCOCCO,ZIBGPFATKBEMQZ-UHFFFAOYSA-N,0.51999998
+TOX-5843,4944,(2-propan-2-yloxyphenyl) N-methylcarbamate,CNC(=O)Oc1ccccc1OC(C)C,CNC(=O)Oc1ccccc1OC(C)C,ISRUGXGCCGIOQO-UHFFFAOYSA-N,5.2199998
+TOX-5853,3224,"1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda4-thiatricyclo[7.2.1.02,8]dodec-10-ene 5-oxide",O=S1OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,O=S1OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,RDYMFSUJUZBWLH-UHFFFAOYSA-N,6.1259999
+TOX-5854,8267,"(1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl) 2-thiocyanatoacetate",CC1(C)C2CCC1(C)C(OC(=O)CSC#N)C2,CC1(C)C2CCC1(C)C(OC(=O)CSC#N)C2,IXEVGHXRXDBAOB-UHFFFAOYSA-N,6.4489999
+TOX-5867,3034145,cyclohexyl diphenyl phosphate,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,CPKKNIYMTSBFIQ-UHFFFAOYSA-N,5.5139999
+TOX-5882,8305,"1,2,4-trichloro-5-(4-chlorophenyl)sulfonylbenzene",O=S(=O)(c1ccc(Cl)cc1)c1cc(Cl)c(Cl)cc1Cl,O=S(=O)(c1ccc(Cl)cc1)c1cc(Cl)c(Cl)cc1Cl,MLGCXEBRWGEOQX-UHFFFAOYSA-N,4.711
+TOX-5924,1483,"2,4,6-tribromophenol",Oc1c(Br)cc(Br)cc1Br,Oc1c(Br)cc(Br)cc1Br,BSWWXRFVMJHFBN-UHFFFAOYSA-N,6.9060001
+TOX-5946,8405,isoquinoline,c1ccc2cnccc2c1,c1ccc2cnccc2c1,AWJUIBRHMBBTKR-UHFFFAOYSA-N,3.711
+TOX-5985,798,1H-indole,c1ccc2[nH]ccc2c1,c1ccc2[nH]ccc2c1,SIKJAQJRHWYJAI-UHFFFAOYSA-N,5.0689998
+TOX-5991,13,"1,2,4-trichlorobenzene",Clc1ccc(Cl)c(Cl)c1,Clc1ccc(Cl)c(Cl)c1,PBKONEOXTCPAFI-UHFFFAOYSA-N,4.6550002
+TOX-5992,8449,"2,4-dichlorophenol",Oc1ccc(Cl)cc1Cl,Oc1ccc(Cl)cc1Cl,HFZWRUODUSTPEG-UHFFFAOYSA-N,4.7969999
+TOX-5996,8453,imidazolidin-2-one,O=C1NCCN1,O=C1NCCN1,YAMHXTCMCPHKLN-UHFFFAOYSA-N,1.187
+TOX-6004,8461,"1-methyl-2,4-dinitrobenzene",Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],Cc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],RMBFBMJGBANMMK-UHFFFAOYSA-N,3.7160001
+TOX-6023,8489,1-chloro-3-nitrobenzene,O=[N+]([O-])c1cccc(Cl)c1,O=[N+]([O-])c1cccc(Cl)c1,KMAQZIILEGKYQZ-UHFFFAOYSA-N,3.839
+TOX-6027,8492,2-chloro-4-nitroaniline,Nc1ccc([N+](=O)[O-])cc1Cl,Nc1ccc([N+](=O)[O-])cc1Cl,LOCWBQIWHWIRGN-UHFFFAOYSA-N,4.4889998
+TOX-6038,31200,dimethoxy-(3-methyl-4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,COP(=S)(OC)Oc1ccc([N+](=O)[O-])c(C)c1,ZNOLGFHPUIJIMJ-UHFFFAOYSA-N,7.7529998
+TOX-6156,31357,tributyl phosphate,CCCCOP(=O)(OCCCC)OCCCC,CCCCOP(=O)(OCCCC)OCCCC,STCOOQWBFONSKY-UHFFFAOYSA-N,4.8629999
+TOX-6197,31423,pyrene,c1cc2ccc3cccc4ccc(c1)c2c34,c1cc2ccc3cccc4ccc(c1)c2c34,BBEAQIROQSPTKN-UHFFFAOYSA-N,6.0370002
+TOX-6218,8554,"dimethyl benzene-1,2-dicarboxylate",COC(=O)c1ccccc1C(=O)OC,COC(=O)c1ccccc1C(=O)OC,NIQCNGHVCWTJSM-UHFFFAOYSA-N,3.77
+TOX-6239,3023,dibenzothiophene,c1ccc2c(c1)sc1ccccc12,c1ccc2c(c1)sc1ccccc12,IYYZUPMFVPLQIF-UHFFFAOYSA-N,5.6199999
+TOX-6377,8857,ethyl acetate,CCOC(C)=O,CCOC(C)=O,XEKOWRVHYACXOJ-UHFFFAOYSA-N,2.0780001
+TOX-6381,1269845,2-sulfanylidene-1H-pyrimidin-4-one,O=c1cc[nH]c(=S)[nH]1,O=c1cc[nH]c(=S)[nH]1,ZEMGGZBWXRYJHK-UHFFFAOYSA-N,4.2210002
+TOX-6391,8881,"1,3-dichloropropane",ClCCCCl,ClCCCCl,YHRUOJUYPBUZOS-UHFFFAOYSA-N,2.6059999
+TOX-6405,8909,1-butoxybutane,CCCCOCCCC,CCCCOCCCC,DURPTKYDGMDSBL-UHFFFAOYSA-N,3.7
+TOX-6447,3092,"2-methyl-3,5-dinitrobenzamide",Cc1c(C(N)=O)cc([N+](=O)[O-])cc1[N+](=O)[O-],Cc1c(C(N)=O)cc([N+](=O)[O-])cc1[N+](=O)[O-],ZEFNOZRLAWVAQF-UHFFFAOYSA-N,3.135
+TOX-6456,697993,"3H-1,3-benzothiazole-2-thione",S=c1[nH]c2ccccc2s1,S=c1[nH]c2ccccc2s1,YXIWHUQXZSMYRE-UHFFFAOYSA-N,4.494
+TOX-6461,9007,3-methoxyphenol,COc1cccc(O)c1,COc1cccc(O)c1,ASHGTJPOSUFTGB-UHFFFAOYSA-N,3.48
+TOX-6524,9154,fluoranthene,c1ccc2c(c1)-c1cccc3cccc-2c13,c1ccc2c(c1)-c1cccc3cccc-2c13,GVEPBJHOBDJJJI-UHFFFAOYSA-N,6.2600002
+TOX-6536,9215,acridine,c1ccc2nc3ccccc3cc2c1,c1ccc2nc3ccccc3cc2c1,DZBUGLKDJFMEHC-UHFFFAOYSA-N,4.8920002
+TOX-6578,4130,dimethoxy-(4-nitrophenoxy)-sulfanylidene-lambda5-phosphane,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,RLBIQVVOMOPOHC-UHFFFAOYSA-N,7.2360001
+TOX-6644,9395,diethyl (4-nitrophenyl) phosphate,CCOP(=O)(OCC)Oc1ccc([N+](=O)[O-])cc1,CCOP(=O)(OCC)Oc1ccc([N+](=O)[O-])cc1,WYMSBXTXOHUIGT-UHFFFAOYSA-N,9.1610003
+TOX-6734,3017,diethoxy-(6-methyl-2-propan-2-ylpyrimidin-4-yl)oxy-sulfanylidene-lambda5-phosphane,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,CCOP(=S)(OCC)Oc1cc(C)nc(C(C)C)n1,FHIVAFMUCKRCQO-UHFFFAOYSA-N,8.1820002
+TOX-7389,1274030,2-sulfanylideneimidazolidin-4-one,O=C1CNC(=S)N1,O=C1CNC(=S)N1,UGWULZWUXSCWPX-UHFFFAOYSA-N,3.7679999
+TOX-7413,10477,carbononitridic chloride,N#CCl,N#CCl,QPJDMGCKMHUXFD-UHFFFAOYSA-N,6.151
+TOX-7629,10824,3-methoxyaniline,COc1cccc(N)c1,COc1cccc(N)c1,NCBZRJODKRCREW-UHFFFAOYSA-N,5.6430001
+TOX-7689,10943,"1,3-dichlorobenzene",Clc1cccc(Cl)c1,Clc1cccc(Cl)c1,ZPQOPVIELGIULI-UHFFFAOYSA-N,4.3099999
+TOX-7784,11123,"2,4-dichloroaniline",Nc1ccc(Cl)cc1Cl,Nc1ccc(Cl)cc1Cl,KQCMTOWTPBNWDB-UHFFFAOYSA-N,5.434
+TOX-7808,11167,methylimino(sulfanylidene)methane,CN=C=S,CN=C=S,LGDSHSYDSCRFAB-UHFFFAOYSA-N,5.4169998
+TOX-7886,11335,"2,6-dimethylphenol",Cc1cccc(C)c1O,Cc1cccc(C)c1O,NXXYKOUNUYWIHA-UHFFFAOYSA-N,4.0380001
+TOX-7898,11357,2-ethylaniline,CCc1ccccc1N,CCc1ccccc1N,MLPVBIWIRCKMJV-UHFFFAOYSA-N,4.178
+TOX-7943,11463,1-methyl-4-propan-2-ylidenecyclohexene,CC1=CCC(=C(C)C)CC1,CC1=CCC(=C(C)C)CC1,MOYAFQVGZZPNRA-UHFFFAOYSA-N,4.7280002
+TOX-7959,11504,4-ethylaniline,CCc1ccc(N)cc1,CCc1ccc(N)cc1,HRXZRAXKKNUKRF-UHFFFAOYSA-N,6.1290002
+TOX-8056,11712,"1,1,2-tribromoethene",BrC=C(Br)Br,BrC=C(Br)Br,OZVJKTHTULCNHB-UHFFFAOYSA-N,4.329
+TOX-8058,2723704,methylthiourea,CNC(N)=S,CNC(N)=S,KQJQICVXLJTWQD-UHFFFAOYSA-N,3.977
+TOX-8078,11761,"1-methyl-2,3-dinitrobenzene",Cc1cccc([N+](=O)[O-])c1[N+](=O)[O-],Cc1cccc([N+](=O)[O-])c1[N+](=O)[O-],DYSXLQBUUOPLBB-UHFFFAOYSA-N,5.441
+TOX-8123,11855,"1,2,3,4,5-pentachlorobenzene",Clc1cc(Cl)c(Cl)c(Cl)c1Cl,Clc1cc(Cl)c(Cl)c(Cl)c1Cl,CEOCDNVZRAIOQZ-UHFFFAOYSA-N,4.6739998
+TOX-8124,11859,"3,4,5-trichlorophenol",Oc1cc(Cl)c(Cl)c(Cl)c1,Oc1cc(Cl)c(Cl)c(Cl)c1,GBNHEBQXJVDXSW-UHFFFAOYSA-N,5.4629998
+TOX-8264,2346,isothiocyanatomethylbenzene,S=C=NCc1ccccc1,S=C=NCc1ccccc1,MDKCFLQDBWCQCV-UHFFFAOYSA-N,6.54
+TOX-8312,3032338,ethylthiourea,CCNC(N)=S,CCNC(N)=S,GMEHFXXZSWDEDB-UHFFFAOYSA-N,3.872
+TOX-8380,12418,"1,1,1,2-tetrachloroethane",ClCC(Cl)(Cl)Cl,ClCC(Cl)(Cl)Cl,QVLAWKAXOMEXPM-UHFFFAOYSA-N,3.845
+TOX-8394,12437,"1,1,3,3-tetramethylurea",CN(C)C(=O)N(C)C,CN(C)C(=O)N(C)C,AVQQQNCBBIEMEU-UHFFFAOYSA-N,1.603
+TOX-8405,12468,"1,2,3,5-tetrachlorobenzene",Clc1cc(Cl)c(Cl)c(Cl)c1,Clc1cc(Cl)c(Cl)c(Cl)c1,QZYNWJQFTJXIRN-UHFFFAOYSA-N,5.1329999
+TOX-8490,8021,N-ethylethanamine,CCNCC,CCNCC,HPNMFZURTQLUMO-UHFFFAOYSA-N,3.1159999
+TOX-8539,12679,N-[bis(dimethylamino)phosphoryl]-N-methylmethanamine,CN(C)P(=O)(N(C)C)N(C)C,CN(C)P(=O)(N(C)C)N(C)C,GNOIPBMMFNIUFM-UHFFFAOYSA-N,1.429
+TOX-8586,61198,2-(2-nitrooxyethoxy)ethyl nitrate,O=[N+]([O-])OCCOCCO[N+](=O)[O-],O=[N+]([O-])OCCOCCO[N+](=O)[O-],LYAGTVMJGHTIDH-UHFFFAOYSA-N,3.3380001
+TOX-8665,4933,"N-(3,4-dichlorophenyl)propanamide",CCC(=O)Nc1ccc(Cl)c(Cl)c1,CCC(=O)Nc1ccc(Cl)c(Cl)c1,LFULEKSKNZEWOE-UHFFFAOYSA-N,4.6389999
+TOX-9108,13387,1-methylpyrrolidin-2-one,CN1CCCC1=O,CN1CCCC1=O,SECXISVLQFMRJM-UHFFFAOYSA-N,4.9060001
+TOX-9309,13636,"2,3,5,6-tetrachlorophenol",Oc1c(Cl)c(Cl)cc(Cl)c1Cl,Oc1c(Cl)c(Cl)cc(Cl)c1Cl,KEWNKZNZRIAIAK-UHFFFAOYSA-N,5.6090002
+TOX-9347,13676,ethoxy-ethyl-phenylsulfanyl-sulfanylidene-lambda5-phosphane,CCOP(=S)(CC)Sc1ccccc1,CCOP(=S)(CC)Sc1ccccc1,KVGLBTYUCJYMND-UHFFFAOYSA-N,7.96
+TOX-9564,13905,"2-N,4-N-diethyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",CCNc1nc(NCC)nc(SC)n1,CCNc1nc(NCC)nc(SC)n1,MGLWZSOBALDPEK-UHFFFAOYSA-N,3.6300001
+TOX-9600,13930,"1,6,8,9,10,11,11-heptachloro-4-oxatetracyclo[6.2.1.02,7.03,5]undec-9-ene",ClC1=C(Cl)C2(Cl)C3C4OC4C(Cl)C3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C4OC4C(Cl)C3C1(Cl)C2(Cl)Cl,ZXFXBSWRVIQKOD-UHFFFAOYSA-N,6.21
+TOX-9612,13940,"1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda6-thiatricyclo[7.2.1.02,8]dodec-10-ene 5,5-dioxide",O=S1(=O)OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,O=S1(=O)OCC2C(CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,AAPVQEMYVNZIOO-UHFFFAOYSA-N,5.3000002
+TOX-9719,3496,2-(phosphonomethylamino)acetic acid,O=C(O)CNCP(=O)(O)O,O=C(O)CNCP(=O)(O)O,XDDAORKBJWWYJS-UHFFFAOYSA-N,3.908
+TOX-10173,1551919,butylthiourea,CCCCNC(N)=S,CCCCNC(N)=S,GMEGXJPUFRVCPX-UHFFFAOYSA-N,3.849
+TOX-10237,14855,4-chloro-2-methylphenol,Cc1cc(Cl)ccc1O,Cc1cc(Cl)ccc1O,RHPUJHQBPORFGV-UHFFFAOYSA-N,5.6919999
+TOX-10251,5569,"2,6-dinitro-N,N-dipropyl-4-(trifluoromethyl)aniline",CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-],ZSDSQXJSNMTJDA-UHFFFAOYSA-N,6.2399998
+TOX-10672,15788,"1,3,5-trichloro-2-(4-nitrophenoxy)benzene",O=[N+]([O-])c1ccc(Oc2c(Cl)cc(Cl)cc2Cl)cc1,O=[N+]([O-])c1ccc(Oc2c(Cl)cc(Cl)cc2Cl)cc1,XQNAUQUKWRBODG-UHFFFAOYSA-N,5.8759999
+TOX-10767,15910,"2,4,5,6-tetrachlorobenzene-1,3-dicarbonitrile",N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,N#Cc1c(Cl)c(Cl)c(Cl)c(C#N)c1Cl,CRQQGFGUEAVUIL-UHFFFAOYSA-N,6.217
+TOX-10835,15965,"4-amino-3,5,6-trichloropyridine-2-carboxylic acid",Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,Nc1c(Cl)c(Cl)nc(C(=O)O)c1Cl,NQQVFXUMIDALNH-UHFFFAOYSA-N,3.678
+TOX-10960,16115,"3-[4-(4-chlorophenoxy)phenyl]-1,1-dimethylurea",CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,CN(C)C(=O)Nc1ccc(Oc2ccc(Cl)cc2)cc1,IVUXTESCPZUGJC-UHFFFAOYSA-N,4.994
+TOX-11510,16741,2-isothiocyanatoethylbenzene,S=C=NCCc1ccccc1,S=C=NCCc1ccccc1,IZJDOKYDEWTZSO-UHFFFAOYSA-N,6.099
+TOX-11597,2779938,"1,1,3-trimethylthiourea",CNC(=S)N(C)C,CNC(=S)N(C)C,JAEZSIYNWDWMMN-UHFFFAOYSA-N,2.1860001
+TOX-11691,17343,"2,3,4,5-tetrachloro-6-methoxyphenol",COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,COc1c(O)c(Cl)c(Cl)c(Cl)c1Cl,YZZVKLJKDFFSFL-UHFFFAOYSA-N,6.2719998
+TOX-11711,17368,"dipropylcarbamothioylsulfanyl N,N-dipropylcarbamodithioate",CCCN(CCC)C(=S)SSC(=S)N(CCC)CCC,CCCN(CCC)C(=S)SSC(=S)N(CCC)CCC,ICEXLMACENYGPP-UHFFFAOYSA-N,6.1859999
+TOX-11929,1486,"2-(2,4-dichlorophenoxy)acetic acid",O=C(O)COc1ccc(Cl)cc1Cl,O=C(O)COc1ccc(Cl)cc1Cl,OVSKIKFHRZPJSS-UHFFFAOYSA-N,3.4990001
+TOX-12028,17725,"1,1,3,3-tetramethylthiourea",CN(C)C(=S)N(C)C,CN(C)C(=S)N(C)C,MNOILHPDHOHILI-UHFFFAOYSA-N,2.2349999
+TOX-12260,2730,"diethoxy-sulfanylidene-(3,5,6-trichloropyridin-2-yl)oxy-lambda5-phosphane",CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,SBPBAQFWLVIOKP-UHFFFAOYSA-N,8.5450001
+TOX-12971,19076,1-chloro-4-[1-(4-chlorophenyl)ethyl]benzene,CC(c1ccc(Cl)cc1)c1ccc(Cl)cc1,CC(c1ccc(Cl)cc1)c1ccc(Cl)cc1,KTEARTXATWOYDB-UHFFFAOYSA-N,6.8559999
+TOX-13550,19958,"1,4-diisothiocyanatobenzene",S=C=Nc1ccc(N=C=S)cc1,S=C=Nc1ccc(N=C=S)cc1,OMWQUXGVXQELIX-UHFFFAOYSA-N,6.3969998
+TOX-14367,8758,2-[bis(carboxymethyl)amino]acetic acid,O=C(O)CN(CC(=O)O)CC(=O)O,O=C(O)CN(CC(=O)O)CC(=O)O,MGFYIUFZLHCRTH-UHFFFAOYSA-N,2.7360001
+TOX-14587,271605,"2,3,14-trihydroxy-10,13-dimethyl-17-(2,3,6-trihydroxy-6-methylheptan-2-yl)-2,3,4,5,9,11,12,15,16,17-decahydro-1H-cyclopenta[a]phenanthren-6-one",CC(C)(O)CCC(O)C(C)(O)C1CCC2(O)C3=CC(=O)C4CC(O)C(O)CC4(C)C3CCC12C,CC(C)(O)CCC(O)C(C)(O)C1CCC2(O)C3=CC(=O)C4CC(O)C(O)CC4(C)C3CCC12C,NKDFYOWSKOHCCO-UHFFFAOYSA-N,5.2909999
+TOX-15850,22772,thiocyanatomethyl thiocyanate,N#CSCSC#N,N#CSCSC#N,JWZXKXIUSSIAMR-UHFFFAOYSA-N,6.2509999
+TOX-17426,4096,[amino(methylsulfanyl)phosphoryl]oxymethane,COP(N)(=O)SC,COP(N)(=O)SC,NNKVPIKMPCQWCG-UHFFFAOYSA-N,6.618
+TOX-17849,5993,"1,3,4,7,8,9,10,10-octachlorotricyclo[5.2.1.02,6]dec-8-ene",ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,ClC1=C(Cl)C2(Cl)C3C(Cl)C(Cl)CC3C1(Cl)C2(Cl)Cl,BIWJNBZANLAXMG-UHFFFAOYSA-N,6.6199999
+TOX-19588,27159,S-[3-carbamoylsulfanyl-2-(dimethylamino)propyl] carbamothioate,CN(C)C(CSC(N)=O)CSC(N)=O,CN(C)C(CSC(N)=O)CSC(N)=O,IRUJZVNXZWPBMU-UHFFFAOYSA-N,7.375
+TOX-24515,31175,"(5-benzylfuran-3-yl)methyl 3-(cyclopentylidenemethyl)-2,2-dimethylcyclopropane-1-carboxylate",CC1(C)C(C=C2CCCC2)C1C(=O)OCc1coc(Cc2ccccc2)c1,CC1(C)C(C=C2CCCC2)C1C(=O)OCc1coc(Cc2ccccc2)c1,MGRRXBWTLBJEMS-UHFFFAOYSA-N,8.1639996
+TOX-25233,3032791,methyl N-[[2-(methoxycarbonylcarbamothioylamino)phenyl]carbamothioyl]carbamate,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,COC(=O)NC(=S)Nc1ccccc1NC(=S)NC(=O)OC,QGHREAKMXXNCOA-UHFFFAOYSA-N,4.3299999
+TOX-26926,249266,1-chloro-2-phenylbenzene,Clc1ccccc1-c1ccccc1,Clc1ccccc1-c1ccccc1,LAXBNTIAOJWAOP-UHFFFAOYSA-N,5.4239998
+TOX-28023,34526,"4-dimethoxyphosphinothioyloxy-N,N-diethyl-6-methylpyrimidin-2-amine",CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1,CCN(CC)c1nc(C)cc(OP(=S)(OC)OC)n1,QHOQHJPRIBSPCY-UHFFFAOYSA-N,9.1540003
+TOX-29953,36603,"5,6-dihydroimidazo[2,1-c][1,2,4]dithiazole-3-thione",S=C1SSC2=NCCN12,S=C1SSC2=NCCN12,BFTGQIQVUVTBJU-UHFFFAOYSA-N,5.9239998
+TOX-30604,37123,"N-[(4-chlorophenyl)carbamoyl]-2,6-difluorobenzamide",O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,O=C(NC(=O)c1c(F)cccc1F)Nc1ccc(Cl)cc1,QQQYTWIFVNKMRW-UHFFFAOYSA-N,7.8410001
+TOX-34924,4169,2-chloro-N-(2-ethyl-6-methylphenyl)-N-(1-methoxypropan-2-yl)acetamide,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,CCc1cccc(C)c1N(C(=O)CCl)C(C)COC,WVQBLGZPHOPPFO-UHFFFAOYSA-N,4.3390002
+TOX-34958,39965,"3-cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-dione",CN(C)c1nc(=O)n(C2CCCCC2)c(=O)n1C,CN(C)c1nc(=O)n(C2CCCCC2)c(=O)n1C,CAWXEEYDBZRFPE-UHFFFAOYSA-N,3.22
+TOX-35367,2912,"[cyano-(3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,KAATUXNTWXVJKI-UHFFFAOYSA-N,9.0629997
+TOX-38153,42115,"3,4,5-trichloro-2-methoxyphenol",COc1c(O)cc(Cl)c(Cl)c1Cl,COc1c(O)cc(Cl)c(Cl)c1Cl,RKEHLKXRUVUBJN-UHFFFAOYSA-N,5.494
+TOX-38205,92691,11-methyl-N-(11-methyldodecyl)dodecan-1-amine,CC(C)CCCCCCCCCCNCCCCCCCCCCC(C)C,CC(C)CCCCCCCCCCNCCCCCCCCCCC(C)C,YOFPVMWVLDSWKR-UHFFFAOYSA-N,6.5370002
+TOX-38698,42586,"methyl 2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate",COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC,ZQEIXNIJLIKNTD-UHFFFAOYSA-N,3.734
+TOX-39863,43234,"1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole",CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1,STJLVHWMYQXCPB-UHFFFAOYSA-N,4.7199998
+TOX-46567,104926,"[cyano-(4-fluoro-3-phenoxyphenyl)methyl] 3-(2,2-dichloroethenyl)-2,2-dimethylcyclopropane-1-carboxylate",CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c1ccc(F)c(Oc2ccccc2)c1,QQODLKZGRKWIFG-UHFFFAOYSA-N,8.8599997
+TOX-46843,7929,"1,3-xylene",Cc1cccc(C)c1,Cc1cccc(C)c1,IVSZLXZYQVIEFR-UHFFFAOYSA-N,3.467
+TOX-60035,91758,"3-[butan-2-ylsulfanyl(ethoxy)phosphoryl]-1,3-thiazolidin-2-one",CCOP(=O)(SC(C)CC)N1CCSC1=O,CCOP(=O)(SC(C)CC)N1CCSC1=O,DUFVKSUJRWYZQP-UHFFFAOYSA-N,5.6329999
+TOX-72358,14716,2-ethylhexyl diphenyl phosphate,CCCCC(CC)COP(=O)(Oc1ccccc1)Oc1ccccc1,CCCCC(CC)COP(=O)(Oc1ccccc1)Oc1ccccc1,CGSLYBDCEGBZCG-UHFFFAOYSA-N,6.3829999
+TOX-72534,3073,2-[methyl(propan-2-yloxy)phosphoryl]oxypropane,CC(C)OP(C)(=O)OC(C)C,CC(C)OP(C)(=O)OC(C)C,WOAFDHWYKSOANX-UHFFFAOYSA-N,2.829
+TOX-72558,5543,"S-(2,3,3-trichloroprop-2-enyl) N,N-di(propan-2-yl)carbamothioate",CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,CC(C)N(C(=O)SCC(Cl)=C(Cl)Cl)C(C)C,MWBPRDONLNQCFV-UHFFFAOYSA-N,6.7280002
+TOX-72572,10800,"2-methyl-4,6-dinitrophenol",Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,Cc1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,ZXVONLUNISGICL-UHFFFAOYSA-N,4.7919998
+TOX-73197,19395,diethoxyphosphinothioyloxy-diethoxy-sulfanylidene-lambda5-phosphane,CCOP(=S)(OCC)OP(=S)(OCC)OCC,CCOP(=S)(OCC)OP(=S)(OCC)OCC,XIUROWKZWPIAIB-UHFFFAOYSA-N,9.1470003
+TOX-75398,3347,[cyano-(3-phenoxyphenyl)methyl] 2-(4-chlorophenyl)-3-methylbutanoate,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,NYPJDWWKZLNGGM-UHFFFAOYSA-N,7.9899998
+TOX-80688,91590,"2-N-tert-butyl-4-N-cyclopropyl-6-methylsulfanyl-1,3,5-triazine-2,4-diamine",S(C)c1nc(nc(n1)NC(C)(C)C)NC1CC1,CSc1nc(NC2CC2)nc(NC(C)(C)C)n1,HDHLIWCXDDZUFH-UHFFFAOYSA-N,4.4850001
+TOX-80827,6838,"N,N-diphenylnitrous amide",O=NN(c1ccccc1)c1ccccc1,O=NN(c1ccccc1)c1ccccc1,UBUCNCOMADRQHX-UHFFFAOYSA-N,4.4050002
+TOX-80834,241,benzene,c1ccccc1,c1ccccc1,UHOVQNZJYSORNB-UHFFFAOYSA-N,2.467
+TOX-80942,18555,"1,2-dichloro-3-nitrobenzene",Clc1c([N+](=O)[O-])cccc1Cl,O=[N+]([O-])c1cccc(Cl)c1Cl,CMVQZRLQEOAYSW-UHFFFAOYSA-N,4.6269999
+TOX-80943,11899,"2,4-dichloro-1-nitrobenzene",Clc1cc(Cl)ccc1[N+](=O)[O-],O=[N+]([O-])c1ccc(Cl)cc1Cl,QUIMTLZDMCNYGY-UHFFFAOYSA-N,4.6599998
+TOX-80987,335,2-methylphenol,Oc1ccccc1C,Cc1ccccc1O,QWVGKYWNOKOFNN-UHFFFAOYSA-N,3.855
+TOX-81006,7237,"1,2-xylene",c1cccc(C)c1C,Cc1ccccc1C,CTQNGGLPUBDAKN-UHFFFAOYSA-N,3.79
+TOX-81058,638186,"(E)-1,2-dichloroethene",ClC=CCl,Cl/C=C/Cl,KFUSEUYYWQURPO-OWOJBTEDSA-N,2.6440001
+TOX-81212,3034285,methyl (E)-2-[2-[6-(2-cyanophenoxy)pyrimidin-4-yl]oxyphenyl]-3-methoxyprop-2-enoate,O(c1ccccc1C#N)c1ncnc(Oc2ccccc2/C(=COC)/C(OC)=O)c1,CO/C=C(/C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1,WFDXOXNFNRHQEC-GHRIWEEISA-N,6.6139998
+TOX-81326,6115,aniline,Nc1ccccc1,Nc1ccccc1,PAYRUJLWNCNPSJ-UHFFFAOYSA-N,5.4130001
+TOX-81337,7017,2-phenylphenol,Oc1ccccc1-c1ccccc1,Oc1ccccc1-c1ccccc1,LLEMOWNGBBNAJR-UHFFFAOYSA-N,5.3800001
+TOX-81339,16183,"2,6-dichlorobenzamide",Clc1cccc(Cl)c1C(=O)N,NC(=O)c1c(Cl)cccc1Cl,JHSPCUHPSIUQRB-UHFFFAOYSA-N,2.346
+TOX-81466,62097,3-iodoprop-2-ynyl N-butylcarbamate,IC#CCOC(=O)NCCCC,CCCCNC(=O)OCC#CI,WYVVKGNFXHOCQV-UHFFFAOYSA-N,6.8470001
+TOX-81649,5368053,[(Z)-(2-methyl-2-methylsulfonylpropylidene)amino] N-methylcarbamate,S(=O)(=O)(C(C=NOC(=O)NC)(C)C)C,CNC(=O)O/N=C/C(C)(C)S(C)(=O)=O,YRRKLBAKDXSTNC-UITAMQMPSA-N,5.9000001
+TOX-81699,7440,"1,2-dimethyl-4-nitrobenzene",O=[N+]([O-])c1cc(C)c(cc1)C,Cc1ccc([N+](=O)[O-])cc1C,HFZKOYWDLDYELC-UHFFFAOYSA-N,3.9749999
+TOX-81700,6739,"1,2-dimethyl-3-nitrobenzene",O=[N+]([O-])c1cccc(C)c1C,Cc1cccc([N+](=O)[O-])c1C,FVHAWXWFPBPFOS-UHFFFAOYSA-N,4.5560002
+TOX-81912,7565,1-bromo-4-phenoxybenzene,Brc1ccc(Oc2ccccc2)cc1,Brc1ccc(Oc2ccccc2)cc1,JDUYPUMQALQRCN-UHFFFAOYSA-N,6.118
+TOX-82089,5281872,"(2-methyl-3-phenylphenyl)methyl 3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate",ClC(=C/C1C(C)(C)C1C(OCc1cccc(-c2ccccc2)c1C)=O)C(F)(F)F,Cc1c(COC(=O)C2C(/C=C(Cl)C(F)(F)F)C2(C)C)cccc1-c1ccccc1,OMFRMAHOUUJSGP-UNOMPAQXSA-N,8.3269997
+TOX-82130,2723631,"1,3-dimethylthiourea",S=C(NC)NC,CNC(=S)NC,VLCDUOXHFNUCKK-UHFFFAOYSA-N,3.8
+TOX-82316,31222,"1,2-diphenylhydrazine",N(Nc1ccccc1)c1ccccc1,c1ccc(NNc2ccccc2)cc1,YBQZXXMEJHZYMB-UHFFFAOYSA-N,4.6529999
+TOX-82318,135541675,(NZ)-N-[1-[(6-chloropyridin-3-yl)methyl]imidazolidin-2-ylidene]nitramide,Clc1ncc(cc1)CN/1CCNC1=N/[N+](=O)[O-],O=[N+]([O-])/N=C1NCCN1Cc1ccc(Cl)nc1,YWTYJOPNNQFBPC-UHFFFAOYSA-N,4.1680002
+TOX-82597,91773,"N-tert-butyl-N'-(4-ethylbenzoyl)-3,5-dimethylbenzohydrazide",O=C(N(NC(=O)c1ccc(cc1)CC)C(C)(C)C)c1cc(cc(c1)C)C,CCc1ccc(C(=O)NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)cc1,QYPNKSZPJQQLRK-UHFFFAOYSA-N,4.3070002
+TOX-82834,637563,1-methoxy-4-[(E)-prop-1-enyl]benzene,O(C)c1ccc(cc1)C=CC,C/C=C/c1ccc(OC)cc1,RUVINXPYWBROJD-ONEGZZNKSA-N,7.3369999
+TOX-82893,8289,triphenyl phosphate,P(Oc1ccccc1)(Oc1ccccc1)(Oc1ccccc1)=O,O=P(Oc1ccccc1)(Oc1ccccc1)Oc1ccccc1,XZZNDPSIHUTMOC-UHFFFAOYSA-N,5.5139999
+TOX-83002,6440556,"[(S)-cyano-(3-phenoxyphenyl)methyl] (1S,3S)-3-[(Z)-2-chloro-3,3,3-trifluoroprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate",ClC(=C/[C@@H]1[C@H](C(O[C@H](C#N)c2cc(Oc3ccccc3)ccc2)=O)C1(C)C)C(F)(F)F,CC1(C)[C@H](/C=C(Cl)C(F)(F)F)[C@@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1,ZXQYGBMAQZUVMI-HQMWCCLBSA-N,7.2220001
+TOX-83005,31261,"pentane-2,4-dione",O=C(CC(=O)C)C,CC(=O)CC(C)=O,YRKCREAYFQTBPV-UHFFFAOYSA-N,1.893
+TOX-83166,342,3-methylphenol,Oc1cc(ccc1)C,Cc1cccc(O)c1,RLSSMJSEOOYNOY-UHFFFAOYSA-N,3.76
+TOX-83472,15600,decane,C(CCCCC)CCCC,CCCCCCCCCC,DIOQZVSQGTUSAI-UHFFFAOYSA-N,3.898
+TOX-83832,6034,methyl 4-acetamido-2-ethoxybenzoate,O(CC)c1cc(NC(=O)C)ccc1C(OC)=O,CCOc1cc(NC(C)=O)ccc1C(=O)OC,GOVWOKSKFSBNGD-UHFFFAOYSA-N,3.0739999
+TOX-83845,5366546,"propan-2-yl (2E,4E)-11-methoxy-3,7,11-trimethyldodeca-2,4-dienoate",O(C(C)C)C(=O)C=C(C=CCC(CCCC(OC)(C)C)C)/C,COC(C)(C)CCCC(C)C/C=C/C(C)=C/C(=O)OC(C)C,NFGXHKASABOEEW-LDRANXPESA-N,5.4749999
+TOX-83890,40585,"[(S)-cyano-(3-phenoxyphenyl)methyl] (1R,3R)-3-(2,2-dibromoethenyl)-2,2-dimethylcyclopropane-1-carboxylate",BrC(Br)=C[C@H]1[C@@H](C(O[C@H](C#N)c2cc(Oc3ccccc3)ccc2)=O)C1(C)C,CC1(C)[C@@H](C=C(Br)Br)[C@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1,OWZREIFADZCYQD-NSHGMRRFSA-N,10.064
+TOX-83895,7670,N-ethylaniline,N(CC)c1ccccc1,CCNc1ccccc1,OJGMBLNIHDZDGS-UHFFFAOYSA-N,5.46
+TOX-83938,7964,chlorobenzene,Clc1ccccc1,Clc1ccccc1,MVPPADPHJFYWMZ-UHFFFAOYSA-N,3.937
+TOX-84077,568,dibenzofuran,o1c2c(c3c1cccc3)cccc2,c1ccc2c(c1)oc1ccccc12,TXCDCPKCNAJMEE-UHFFFAOYSA-N,4.9949999
+TOX-84105,10342051,[(S)-cyano-(3-phenoxyphenyl)methyl] (2S)-2-(4-chlorophenyl)-3-methylbutanoate,Clc1ccc(cc1)[C@H](C(C)C)C(O[C@H](C#N)c1cc(Oc2ccccc2)ccc1)=O,CC(C)[C@H](C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,NYPJDWWKZLNGGM-RPWUZVMVSA-N,9.1920004
+TOX-84658,11150163,"methyl (2R)-2-(N-(2-methoxyacetyl)-2,6-dimethylanilino)propanoate",O(CC(=O)N([C@@H](C(OC)=O)C)c1c(cccc1C)C)C,COCC(=O)N(c1c(C)cccc1C)[C@H](C)C(=O)OC,ZQEIXNIJLIKNTD-GFCCVEGCSA-N,3.8239999
+TOX-84739,16323,1-chloro-4-phenylbenzene,Clc1ccc(cc1)-c1ccccc1,Clc1ccc(-c2ccccc2)cc1,FPWNLURCHDRMHC-UHFFFAOYSA-N,5.652
+TOX-86034,5353395,[(Z)-(2-methyl-2-methylsulfanylpropylidene)amino] N-methylcarbamate,CNC(=O)O/N=C/C(C)(C)SC,CNC(=O)O/N=C/C(C)(C)SC,QGLZXHRNAYXIBU-UITAMQMPSA-N,5.5139999
+TOX-86753,6975,4-chloro-1-methyl-2-nitrobenzene,Cc1ccc(Cl)cc1[N+](=O)[O-],Cc1ccc(Cl)cc1[N+](=O)[O-],SQFLFRQWPBEDHM-UHFFFAOYSA-N,4.2659998
+TOX-87489,8259,"2,2,2-trichloroethanol",OCC(Cl)(Cl)Cl,OCC(Cl)(Cl)Cl,KPWDGTGXUYRARH-UHFFFAOYSA-N,3.0039999
+TOX-87607,12464,"2,3,4-trichloroaniline",Nc1ccc(Cl)c(Cl)c1Cl,Nc1ccc(Cl)c(Cl)c1Cl,RRJUYQOFOMFVQS-UHFFFAOYSA-N,5.4299998
+TOX-88450,10966,isothiocyanatoethane,CCN=C=S,CCN=C=S,HBNYJWAFDZLWRS-UHFFFAOYSA-N,5.3070002
+TOX-91011,11613,1-isothiocyanatobutane,CCCCN=C=S,CCCCN=C=S,LIMQQADUEULBSO-UHFFFAOYSA-N,5.428
+TOX-91388,13414,"2,6-dimethylquinoline",Cc1ccc2nc(C)ccc2c1,Cc1ccc2nc(C)ccc2c1,JJPSZKIOGBRMHK-UHFFFAOYSA-N,3.6170001
+TOX-91598,15292,"2,4-dichloro-6-methylphenol",Cc1cc(Cl)cc(Cl)c1O,Cc1cc(Cl)cc(Cl)c1O,WJQZZLQMLJPKQH-UHFFFAOYSA-N,5.6149998
+TOX-91738,12064,"1,3-dichloro-5-nitrobenzene",O=[N+]([O-])c1cc(Cl)cc(Cl)c1,O=[N+]([O-])c1cc(Cl)cc(Cl)c1,RNABGKOKSBUFHW-UHFFFAOYSA-N,4.408
+TOX-92356,68284,benzoyl isothiocyanate,O=C(N=C=S)c1ccccc1,O=C(N=C=S)c1ccccc1,CPEKAXYCDKETEN-UHFFFAOYSA-N,4.934
+TOX-94706,24726,"(E)-1,3-dichloroprop-1-ene",Cl/C=C/CCl,Cl/C=C/CCl,UOORRWUZONOOLO-OWOJBTEDSA-N,4.3920002
+TOX-107546,5377791,"[(E)-2-chloro-1-(2,4-dichlorophenyl)ethenyl] diethyl phosphate",CCOP(=O)(OCC)O/C(=C/Cl)c1ccc(Cl)cc1Cl,CCOP(=O)(OCC)O/C(=C/Cl)c1ccc(Cl)cc1Cl,FSAVDKDHPDSCTO-XYOKQWHBSA-N,5.4229999
+TOX-107709,10023540,"(6R)-16,17-dimethoxy-6-prop-1-en-2-yl-2,7,20-trioxapentacyclo[11.8.0.03,11.04,8.014,19]henicosa-3(11),4(8),9,14,16,18-hexaen-12-one",C=C(C)[C@H]1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,C=C(C)[C@H]1Cc2c(ccc3c2OC2COc4cc(OC)c(OC)cc4C2C3=O)O1,JUVIOZPCNVVQFO-YMTQGWHGSA-N,8.0279999
+TOX-107733,5371904,"[2-methyl-4-oxo-3-[(2E)-penta-2,4-dienyl]cyclopent-2-en-1-yl] 3-[(E)-3-methoxy-2-methyl-3-oxoprop-1-enyl]-2,2-dimethylcyclopropane-1-carboxylate",C=C/C=C/CC1=C(C)C(OC(=O)C2C(/C=C(C)C(=O)OC)C2(C)C)CC1=O,C=C/C=C/CC1=C(C)C(OC(=O)C2C(/C=C(C)C(=O)OC)C2(C)C)CC1=O,VJFUPGQZSXIULQ-VKTMSVCMSA-N,7.3410001
+TOX-107823,5316430,"(1R,4aS)-1,4a-dimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylic acid",CC(C)c1ccc2c(c1)CCC1[C@]2(C)CCC[C@@]1(C)C(=O)O,CC(C)c1ccc2c(c1)CCC1[C@]2(C)CCC[C@@]1(C)C(=O)O,NFWKVWVWBFBAOV-IPNZSQQUSA-N,4.5599999
+TOX-108099,12309466,"(2R,8S)-1,9,10,11,12,12-hexachloro-4,6-dioxa-5lambda4-thiatricyclo[7.2.1.02,8]dodec-10-ene 5-oxide",O=S1OC[C@@H]2[C@H](CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,O=S1OC[C@@H]2[C@H](CO1)C1(Cl)C(Cl)=C(Cl)C2(Cl)C1(Cl)Cl,RDYMFSUJUZBWLH-MDBBVBRHSA-N,5.428
+TOX-108221,48132,,CC1(C)[C@@H](C(Br)C(Br)(Br)Br)[C@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1,CC1(C)[C@@H](C(Br)C(Br)(Br)Br)[C@H]1C(=O)O[C@H](C#N)c1cccc(Oc2ccccc2)c1,YWSCPYYRJXKUDB-KAKFPZCNSA-N,9.9449997
+TOX-108249,73671,,CC(C)(C)[C@H](O)[C@H](Cc1ccc(Cl)cc1)n1cncn1,CC(C)(C)[C@H](O)[C@H](Cc1ccc(Cl)cc1)n1cncn1,RMOGWMIKYWRTKW-UONOGXRCSA-N,4.0100002
+TOX-108285,6435500,,CC1(C)[C@@H](/C=C(Cl)C(F)(F)F)[C@H]1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,CC1(C)[C@@H](/C=C(Cl)C(F)(F)F)[C@H]1C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1,ZXQYGBMAQZUVMI-QQDHXZELSA-N,8.6359997
+TOX-108389,38988396,,N=C(N/N=C/c1ccc(Cl)cc1)N/N=C/c1ccc(Cl)cc1,N=C(N/N=C/c1ccc(Cl)cc1)N/N=C/c1ccc(Cl)cc1,MOOFYEJFXBSZGE-QJUDHZBZSA-N,6.6490002
+TOX-108403,5317221,,C[C@]12CCC3c4ccc(O)cc4CCC3C1CC[C@@H]2O,C[C@]12CCC3c4ccc(O)cc4CCC3C1CC[C@@H]2O,VOXZDWNPVJITMN-PAOLREHBSA-N,4.9619999
+TOX-108404,61099,,CCC(O)C(C)CO,CCC(O)C(C)CO,SPXWGAHNKXLXAP-UHFFFAOYSA-N,1.2359999
+TOX-108405,13898,,O=S1c2ccccc2-c2ccccc21,O=S1c2ccccc2-c2ccccc21,NGDPCAMPVQYGCW-UHFFFAOYSA-N,4.0009999
+TOX-108406,208828,,Cc1cc(O)c(C(C)C)cc1N=Nc1ccc(S(=O)(=O)c2ccc(N=Nc3cc(C(C)C)c(O)cc3C)cc2)cc1,Cc1cc(O)c(C(C)C)cc1N=Nc1ccc(S(=O)(=O)c2ccc(N=Nc3cc(C(C)C)c(O)cc3C)cc2)cc1,KHFUQWURHSKTPO-UHFFFAOYSA-N,5.4400001
+TOX-108407,7221,,c1ccc2sccc2c1,c1ccc2sccc2c1,FCEHBMOGCRZNNI-UHFFFAOYSA-N,3.3570001
+TOX-108408,7960,,BrC1CCCCC1,BrC1CCCCC1,AQNQQHJNRPDOQV-UHFFFAOYSA-N,3.8900001
+TOX-108409,268932,,c1ccc2c(c1)ccc1oc3ccccc3c12,c1ccc2c(c1)ccc1oc3ccccc3c12,XVWNNQQHTXDOLJ-UHFFFAOYSA-N,4.737
+TOX-108410,9151,,c1ccc2c(c1)ccc1sc3ccccc3c12,c1ccc2c(c1)ccc1sc3ccccc3c12,XZUMOEVHCZXMTR-UHFFFAOYSA-N,6.027
+TOX-108411,12466,,Nc1cc(Cl)c(Cl)c(Cl)c1Cl,Nc1cc(Cl)c(Cl)c(Cl)c1Cl,GBKZRUCVLTWAML-UHFFFAOYSA-N,5.5570002
+TOX-108412,12487,,Nc1cc(Cl)c(Cl)cc1Cl,Nc1cc(Cl)c(Cl)cc1Cl,GUMCAKKKNKYFEB-UHFFFAOYSA-N,4.7620001
+TOX-108413,69997,,O=S1(=O)C=Cc2ccccc21,O=S1(=O)C=Cc2ccccc21,FRJNKYGTHPUSJR-UHFFFAOYSA-N,4.0739999
+TOX-108414,73817,,Cc1csc2ccccc12,Cc1csc2ccccc12,SEBRPHZZSLCDRQ-UHFFFAOYSA-N,4.756
+TOX-108415,17097,,Clc1ccc(-c2ccc(Cl)cc2Cl)c(Cl)c1,Clc1ccc(-c2ccc(Cl)cc2Cl)c(Cl)c1,QORAVNMWUNPXAO-UHFFFAOYSA-N,6.9879999
+TOX-108416,17577,,COc1cc(Cl)c(Cl)c(Cl)c1O,COc1cc(Cl)c(Cl)c(Cl)c1O,NIAJPNQTKGWEOI-UHFFFAOYSA-N,5.375
+TOX-108417,2063659,,CCNC(=S)Nc1ccccc1,CCNC(=S)Nc1ccccc1,OROCFDLTBPBLFS-UHFFFAOYSA-N,3.352
+TOX-108418,439196,,O[C@@H](CS)[C@@H](O)CS,O[C@@H](CS)[C@@H](O)CS,VHJLVAABSRFDPM-IMJSIDKUSA-N,3.757
+TOX-108419,723631,,CN(C(N)=S)c1ccccc1,CN(C(N)=S)c1ccccc1,MCWZNJNWGQPUGL-UHFFFAOYSA-N,3.237
+TOX-108420,3034192,,CN(C)C(N)=S,CN(C)C(N)=S,ZQGWBPQBZHMUFG-UHFFFAOYSA-N,3.395
+TOX-108421,5353424,,C/C=C(C)C(=O)OC1CC(OC(C)=O)C2(C(=O)OC)COC3C2C12COC(O)(C(=O)OC)C2C(C)(C12OC1(C)C1CC2OC2OC=CC21O)C3O,C/C=C(C)C(=O)OC1CC(OC(C)=O)C2(C(=O)OC)COC3C2C12COC(O)(C(=O)OC)C2C(C)(C12OC1(C)C1CC2OC2OC=CC21O)C3O,FTNJWQUOZFUQQJ-OVCLIPMQSA-N,6.0640001
+TOX-108422,84346,,Cc1ccc2sccc2c1,Cc1ccc2sccc2c1,DOHZWDWNQFZIKH-UHFFFAOYSA-N,4.0250001
+TOX-108423,27514,,Clc1cc(Cl)c(-c2ccccc2)cc1Cl,Clc1cc(Cl)c(-c2ccccc2)cc1Cl,VGVIKVCCUATMNG-UHFFFAOYSA-N,5.6399999
+TOX-108424,13019211,,CSc1nc(N)nc(NC(C)(C)C)n1,CSc1nc(N)nc(NC(C)(C)C)n1,MWWBDLRPMWTLRX-UHFFFAOYSA-N,4.2880001
+TOX-108425,16322,,Clc1cccc(-c2ccccc2)c1,Clc1cccc(-c2ccccc2)c1,NMWSKOLWZZWHPL-UHFFFAOYSA-N,5.6420002

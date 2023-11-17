@@ -1,0 +1,470 @@
+﻿HSI #,Site Name,Lattitude,Longitude,Address,City,County,List Date,Class,Site Summary,Investigation/ Cleanup Funding,Icon
+10001,Dow Chemical - Dalton Site,34.63278,-84.92806,"1467 Prosser Dr., SE",Dalton,Whitfield,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10001/download,RP,small_red
+10002,Shaver's Farm,34.79889,-85.30750,651 Shaver Farm Road,Chickamauga,Walker,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10002/download,RP,small_red
+10003,CSX Transportation - Savannah (Tremont Road),32.06222,-81.14917,3000 Tremont Rd.,Savannah,Chatham,6/29/94,V,https://epd.georgia.gov/document/hsi/23-10003/download,RP,small_red
+10005,G. C. Lee Site / Lee Engr & Const,30.98833,-82.89667,Lutz Farm Road,Dupont,Clinch,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10005/download,RP,small_red
+10006,Hercules 009 Landfill - NPL Site,31.20944,-81.48806,Granville Nix Rd and Ga Hwy 25 (Golden Isles Pkwy),Brunswick,Glynn,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10006/download,RP,small_red
+10008,CSX Transportation - Middleton Derailment,34.09778,-82.76861,Intersection of County Roads 296 & 304,Middleton,Elbert,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10008/download,RP,small_red
+10009,U.S. Army - Fort Gillem - North Landfill Area,33.62917,-84.33333,North Boundary Road & North A Avenue,Forest Park,Clayton,7/1/94,IV,https://epd.georgia.gov/document/pdf/23-10009/download,RP,small_red
+10012,Fox Manufacturing Company,34.26472,-85.15500,100 East Callahan St.,Rome,Floyd,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10012/download,RP,small_red
+10015,Langdale Forest Products Corporation,30.81722,-83.27667,1202 Madison Highway,Valdosta,Lowndes,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10015/download,RP,small_red
+10016,Trane Technologies Co.- Sylvania (fka Ingersoll/Torrington/Timken)),32.75806,-81.61917,400 Friendship Road,Sylvania,Screven,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10016/download,RP,small_red
+10017,Blackman Uhler Chemical Company,33.45083,-81.97917,1010 Glass Factory Avenue,Augusta,Richmond,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10017/download,RP,small_red
+10018,Atlantic Wood Industries (Former),32.14583,-81.14917,202 Oxnard Drive,Port Wentworth,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10018/download,RP,small_red
+10019,Powersville Landfill - Former NPL Site,32.61000,-83.79333,Intersection of Newell Rd (GA 247 Conn) & GA 49N,Powersville,Peach,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10019/download,L,small_green 
+10020,Henkel Site,34.01528,-85.26611,701 Wissahickon Avenue,Cedartown,Polk,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10020/download,RP,small_red
+10021,Williams-Mesena Road Landfill,33.45806,-82.54306,1634 Mesena Road,Thomson,McDuffie,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10021/download,RP,small_red
+10022,Baxley Creosoting Company,31.77472,-82.33639,723 East Parker Street,Baxley,Appling,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10022/download,A,small_yellow
+10024,TH Agriculture & Nutrition Company - NPL Site,31.61722,-84.18167,1401 Schley Avenue,Albany,Dougherty,6/8/98,IV,https://epd.georgia.gov/document/pdf/23-10024/download,RP,small_red
+10025,GA Dept of Trans - Dist 4 Main HQ (Former),31.51778,-82.85333,213 Walker Street,Douglas,Coffee,7/1/94,V,https://epd.georgia.gov/document/pdf/23-10025/download,RP,small_red
+10026,CSX Transportation - Waycross Facility,31.19889,-82.36833,1100 W. Hamilton Avenue (Nicholls Street),Waycross,Ware,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10026/download,RP,small_red
+10027,"Graphic Packaging International, Inc.",32.77167,-83.62972,100 Graphic Packaging International Way,Macon,Bibb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10027/download,RP,small_red
+10028,Escambia Treating Company - Brunswick (aka Brunswick Wood NPL Site),31.24250,-81.53167,1060 & 780 Perry Lane Road,Brunswick,Glynn,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10028/download,A,small_yellow
+10029,Escambia Treating Company - Camilla - NPL Site,31.22167,-84.20333,131 East Bennett St.,Camilla,Mitchell,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10029/download,A,small_yellow
+10030,Turner Air Force Base (Former),31.58917,-84.08472,405 Cordelle Road,Albany,Dougherty,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10030/download,RP,small_red
+10032,Brockway Standard - Homerville Plant,31.02917,-82.77361,1601 Valdosta Highway,Homerville,Clinch,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10032/download,RP,small_red
+10043,Southern Wood Piedmont - Central of Georgia Railroad,32.84694,-83.67500,3210 Roff Ave,Macon,Bibb,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10043/download,RP,small_red
+10044,Mt Airy Wood Preserving Company,34.53083,-83.47167,1036 Welcome Home Road,Mt. Airy,Habersham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10044/download,RP,small_red
+10045,"Colonial Terminals, Plant #1",32.09444,-81.11333,101 N. Lathrop Ave.,Savannah,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10045/download,RP,small_red
+10046,General Electric Company,34.28139,-85.22333,1935 Redmond Circle,Rome,Floyd,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10046/download,RP,small_red
+10048,American Linen Supply Company (former),33.86611,-83.41389,1081 Experiment Station Road,Watkinsville,Oconee,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10048/download,RP,small_red
+10053,"BASF Catalysts, LLC- Attapulgus Operations",30.73806,-84.48972,141 Engelhard Road,Attapulgus,Decatur,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10053/download,RP,small_red
+10055,Stevens Industries,31.77944,-84.45194,715 Martin Luther King Jr. Drive,Dawson,Terrell,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10055/download,RP,small_red
+10056,Marzone/Chevron - NPL Site OU1,31.43028,-83.50250,900 E Golden Road,Tifton,Tift,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10056/download,RP,small_red
+10057,General Tire - Aldora Plant,33.05306,-84.17694,160 Aldora Street,Barnesville,Lamar,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10057/download,RP,small_red
+10058,Hercules,31.16528,-81.47861,2801 Cook St,Brunswick,Glynn,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10058/download,RP,small_red
+10059,Firestone Tire & Rubber Co. (Albany Plant)-NPL Site,31.56833,-84.05611,3300 Sylvester Road,Albany,Dougherty,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10059/download,RP,small_red
+10060,Southwire - Copper Division,33.55583,-85.06028,372 Central High Road,Carrollton,Carroll,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10060/download,RP,small_red
+10061,Southwire - Wire & Cable Division,33.55861,-85.06750,1 Southwire Drive,Carrollton,Carroll,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10061/download,RP,small_red
+10062,Woolfolk Chemical Works - NPL Site,32.55083,-83.88444,Intersection of Preston & Pine,Fort Valley,Peach,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10062/download,A,small_yellow
+10063,Rockbridge Square Shopping Center,33.84139,-84.13250,1227 Rockbridge Road,Stone Mountain,Gwinnett,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10063/download,A,small_yellow
+10065,Merck & Company,31.49722,-84.13250,3517 Radium Springs Road,Albany,Dougherty,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10065/download,RP,small_red
+10068,Rummel Fibre Company,34.24306,-85.13333,607 Turner Chapel Road,Rome,Floyd,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10068/download,RP,small_red
+10070,Pelham Phosphate Company,31.14111,-84.15472,West Railroad St.,Pelham,Mitchell,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10070/download,A,small_yellow
+10072,General Electric - Apparatus Service Center,33.88611,-84.31389,5035 Peachtree Industrial Blvd.,Chamblee,Dekalb,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10072/download,RP,small_red
+10077,"1610 Southland Circle (fka ""Indcon"")",33.80167,-84.43333,1610 Southland Circle,Atlanta,Fulton,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10077/download,RP,small_red
+10082,Univar USA Inc.,33.91333,-84.22861,2145 Skyland Court,Norcross,Gwinnett,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10082/download,RP,small_red
+10083,Southern Wood Piedmont - Augusta,33.42556,-81.99972,1650 Nixon Road,Augusta,Richmond,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10083/download,RP,small_red
+10084,Southern Wood Piedmont - East Point,33.69000,-84.44472,1745 Connally Drive,East Point,Fulton,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10084/download,RP,small_red
+10085,PPG Industries (former),32.46139,-83.76444,801 Valley Drive,Perry,Houston,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10085/download,RP,small_red
+10089,Southern Bag Corp,30.83000,-83.29528,910 River Street,Valdosta,Lowndes,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10089/download,RP,small_red
+10090,Bonnell Aluminum,33.38194,-84.81667,25 Bonnell Street,Newnan,Coweta,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10090/download,RP,small_red
+10091,Travis Field/Savannah International Airport,32.11611,-81.19056,"Airport Commission, 400 Airway Avenue",Savannah,Chatham,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10091/download,RP,small_red
+10092,Cedartown Municipal Landfill - Former NPL Site,34.01472,-85.28750,10th Street (1.8 miles west of Cedartown),Cedartown,Polk,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10092/download,L,small_green 
+10093,"U.S. Naval Submarine Base, Kings Bay",30.81194,-81.57028,1063 USS Tennessee Avenue,Kings Bay,Camden,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10093/download,RP,small_red
+10094,U.S. Marine Corps Logistics Base - NPL Site,31.54917,-84.05944,Fleming Road,Albany,Dougherty,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10094/download,RP,small_red
+10095,Central of GA RR/Bernuth-Lembcke Site,32.09528,-81.10917,Off Kincey Road at GA Ports Authority Gate #2,Savannah,Chatham,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10095/download,RP,small_red
+10096,M&J Solvents Company,33.79500,-84.43806,1577 Marietta Road NW,Atlanta,Fulton,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10096/download,RP,small_red
+10097,Atlanta Gas Light Company - Waycross MGP Site,31.19889,-82.37389,903 Glenmore Avenue,Waycross,Ware,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10097/download,RP,small_red
+10099,Alco Controls,31.86556,-82.59250,400 East First Street,Hazlehurst,Jeff Davis,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10099/download,RP,small_red
+10106,Cedartown Battery Site,34.01472,-85.29889,Mountain Home Road and Prior Station Road,Cedartown,Polk,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10106/download,A,small_yellow
+10111,Scripto Plant & Office Complex (Former),33.75833,-84.37306,423 John Wesley Dobbs St. & 430 Irwin Street,Atlanta,Fulton,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10111/download,A,small_yellow
+10112,U.S. Army - Fort Benning (FBSB-86),32.36389,-84.97972,GA Hwy 1 & U.S. 27,Fort Benning,Muscogee,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10112/download,RP,small_red
+10114,Union Camp Corp - Former Amoco Property,32.10222,-81.13306,West Lathrop Avenue,Savannah,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10114/download,RP,small_red
+10115,Phibro-Tech (fka C P Chemicals),33.85306,-84.65056,4080 Industry Road,Powder Springs,Cobb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10115/download,RP,small_red
+10116,Georgia Metals,33.85500,-84.65028,4000 Industry Road SW,Powder Springs,Cobb,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10116/download,A,small_yellow
+10122,Amoco Fabrics & Fibers - Hazlehurst Mills,31.86444,-82.59111,4 Gill Street,Hazlehurst,Jeff Davis,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10122/download,RP,small_red
+10123,Arivec Chemicals,33.76222,-84.73194,7962 Huey Road,Douglasville,Douglas,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10123/download,RP,small_red
+10124,Perma-Fix of South Georgia (fka Chemical Conservation of Georgia),30.79750,-83.28083,1612 James P. Rodgers Circle,Valdosta,Lowndes,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10124/download,RP,small_red
+10126,U.S. Army Corps of Engineers Airstrip (current),30.73222,-84.83222,Corps Airport Road,Bainbridge,Decatur,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10126/download,RP,small_red
+10128,Atlanta Gas Light Company - Savannah MGP Site,32.07806,-81.08361,Area West & SW of E. Bay St. & Gen. McIntosh Blvd.,Savannah,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10128/download,RP,small_red
+10132,Atlanta Gas Light Company - Augusta MGP Site,33.46778,-81.96972,Walton Way & Eighth Street (807 8th Street),Augusta,Richmond,11/23/98,V,https://epd.georgia.gov/document/pdf/23-10132/download,RP,small_red
+10133,"Excalibur Realty (fka Chemical Specialties, Inc.)",30.80972,-83.28750,1219 Old Clyattville Road,Valdosta,Lowndes,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10133/download,RP,small_red
+10135,Monroe Auto Equipment Company (Tenneco),34.35389,-82.94306,200 McIntyre Drive,Hartwell,Hart,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10135/download,RP,small_red
+10136,Monsanto Chemical Company - (former NPL Site),33.39083,-81.99056,1610 Marvin Griffin Road,Augusta,Richmond,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10136/download,RP,small_red
+10137,York Casket Hardware (fka Piedmont Metals),33.96472,-84.00028,506 Maltbie Street,Lawrenceville,Gwinnett,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10137/download,RP,small_red
+10139,304 N Dudley Street Site,32.07472,-84.23833,304 N Dudley Street,Americus,Sumter,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10139/download,RP,small_red
+10140,Union Timber,31.02972,-82.76639,US Route 84,Homerville,Clinch,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10140/download,A,small_yellow
+10141,Southern States,33.38583,-84.29000,30 Georgia Ave.,Hampton,Henry,6/30/97,V,https://epd.georgia.gov/document/pdf/23-10141/download,RP,small_red
+10142,So Green Waste Pile,31.44222,-83.51056,Highland Avenue,Tifton,Tift,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10142/download,RP,small_red
+10143,Parramore Fertilizer,31.44028,-83.51250,Highland Avenue,Tifton,Tift,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10143/download,RP,small_red
+10144,LCP Chemicals - NPL Site,31.18361,-81.51083,4125 Ross Road,Brunswick,Glynn,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10144/download,RP,small_red
+10145,Olin Corporation,33.34472,-81.95000,2402 Doug Barnard Pkwy,Augusta,Richmond,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10145/download,RP,small_red
+10146,Air Force Plant 6,33.90639,-84.51333,86 South Cobb Drive,Marietta,Cobb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10146/download,RP,small_red
+10147,Ashland Chemical Company,33.90500,-84.24278,4550-B Northeast Expressway,Doraville,Dekalb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10147/download,RP,small_red
+10151,Signal Energy Holdings (Former Young Refining ),33.76306,-84.73111,7982 Huey Road,Douglasville,Douglas,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10151/download,RP,small_red
+10152,Peach Metal Industries,32.67444,-83.76500,Boy Scout Road at Juniper Creek Road,Byron,Peach,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10152/download,A,small_yellow
+10154,Douglas & Lomason Company,33.39167,-84.82278,317 Temple Avenue,Newnan,Coweta,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10154/download,RP,small_red
+10157,Manor Timber Company,31.07778,-82.63417,Black Ankle Road,Argyle,Clinch,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10157/download,RP,small_red
+10162,Ashland Chemical Company,32.08139,-81.13722,400 Telfair Road,Savannah,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10162/download,RP,small_red
+10165,Conyers Battery Exchange,33.67361,-84.04611,1796 SW Old Covington Highway,Conyers,Rockdale,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10165/download,A,small_yellow
+10167,Macon Naval Ordnance Landfill (Former) - NPL Site,32.76917,-83.64694,John W. Garland Drive,Macon,Bibb,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10167/download,RP,small_red
+10170,A&D Barrel & Drum Company,33.77361,-84.40833,647 Donald Lee Hollowell Parkway,Atlanta,Fulton,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10170/download,A,small_yellow
+10172,"A.I.D. Company, Div. of Roller Bearing Co. of America.",34.87722,-83.38667,250 Laurel Heights Drive,Clayton,Rabun,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10172/download,RP,small_red
+10179,Deptford Tract Landfill,32.07167,-81.04056,100 Seaport Blvd.,Savannah,Chatham,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10179/download,RP,small_red
+10180,Robins Air Force Base - NPL Site,32.62083,-83.58167,Highway 247,Robins AFB,Houston,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10180/download,RP,small_red
+10188,Atlas Chemical Company,33.09611,-82.02306,Junction 11th Street & Hale Street,Waynesboro,Burke,7/1/94,II,https://epd.georgia.gov/document/pdf/23-10188/download,RP,small_red
+10191,Barlow Creosote,31.05778,-82.64250,Route 2 (Antioch Church Road),Argyle,Clinch,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10191/download,A,small_yellow
+10192,Berrien Products,31.20667,-83.24167,East Marion Ave. (Hwy 76) (East of N. Mathis St.),Nashville,Berrien,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10192/download,A,small_yellow
+10196,Estech General Chemicals,33.79083,-84.43528,1551 Marietta Road at Inman Railyard,Atlanta,Fulton,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10196/download,RP,small_red
+10198,Gordon Service Company,32.85389,-83.35222,"Hwy 18; 1,300 ft S of Hwy 18 & 57 intersection",Gordon,Wilkinson,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10198/download,RP,small_red
+10200,"Martin Fireproofing Georgia, Inc.",34.08500,-82.84361,1318 Washington Highway,Elberton,Elbert,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10200/download,A,small_yellow
+10202,McCranie Brothers Wood Preserving,31.33694,-83.04194,US Hwy 82 (Coffee Avenue & Wilcox Street),Willacoochee,Atkinson,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10202/download,A,small_yellow
+10204,Metalplate Galvanizing Corp,33.74528,-84.54556,505 Selig Drive SW,Atlanta,Fulton,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10204/download,RP,small_red
+10205,Moultrie Wood Preserving Company,31.18139,-83.77194,1st Avenue NE,Moultrie,Colquitt,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10205/download,A,small_yellow
+10206,Murrow Brothers Delinting Waste,33.77972,-83.42500,3361 Macon Highway,Farmington,Oconee,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10206/download,A,small_yellow
+10208,139 Brampton Road,32.10750,-81.14472,139 Brampton Road,Garden City,Chatham,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10208/download,RP,small_red
+10219,W. F. Harris & Sons Wood Preserving,32.96000,-84.41083,1261 Willingham Springs Road,Thomaston,Upson,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10219/download,A,small_yellow
+10221,Akzo Coatings (Former),31.77056,-82.32917,1202 East Parker Street,Baxley,Appling,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10221/download,RP,small_red
+10233,S&M Scrap Metal Company,31.44611,-83.48917,Highway 82 East and Highway 319,Tifton,Tift,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10233/download,A,small_yellow
+10241,Union Camp Corp - Allen Blvd Landfill,32.10194,-81.13111,Allen Blvd next to SEPCO Substation,Savannah,Chatham,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10241/download,RP,small_red
+10242,Terry Creek Dredge Spoil Area- NPL site,31.16694,-81.46778,Terry & Dupree Creeks-east of US 17 & Torras Cause,Brunswick,Glynn,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10242/download,RP,small_red
+10245,Oil Processing Corp (Former),33.18917,-82.39417,Industrial Street,Wrens,Jefferson,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10245/download,RP,small_red
+10246,Morgan Post Treating Impoundment,31.04306,-82.73444,North of 887 Waycross Highway,Homerville,Clinch,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10246/download,A,small_yellow
+10250,Lyndal Chemical (aka Chemical Processing of Georgia),34.79556,-84.96556,1338 Coronet Drive,Dalton,Whitfield,6/29/94,III,https://epd.georgia.gov/document/pdf/23-10250/download,RP,small_red
+10251,Chemresol,31.22722,-81.52389,145 East Crispen Blvd,Brunswick,Glynn,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10251/download,RP,small_red
+10260,Griffith Oil Company,34.06111,-83.54722,B Whitfield Road,Jefferson,Jackson,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10260/download,A,small_yellow
+10269,University of Georgia - Milledge Avenue Site,33.90583,-83.38528,2450 S Milledge Avenue,Athens,Clarke,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10269/download,L,small_green 
+10270,Hall County - Allen Creek Sanitary Landfill,34.25333,-83.77556,2684 Allen Creek Road,Gainesville,Hall,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10270/download,L,small_green 
+10271,Cheatham Road Landfill (Phase 2 Cobb County),34.01389,-84.73667,2500 Pitner Road,Acworth,Cobb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10271/download,L,small_green 
+10272,Miller Bottom Road Landfill,33.74222,-83.92583,Miller Bottom Road,Conyers,Rockdale,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10272/download,L,small_green 
+10274,Speedway SR 324 Landfill,33.96889,-83.77333,967 Carl Bethlehem Road,Winder,Barrow,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10274/download,RP,small_red
+10275,Clinch County - Smith Road Landfill Phase 1 (SL),31.07028,-82.75972,Smith Road,Homerville,Clinch,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10275/download,L,small_green 
+10276,Southern States Landfill,33.82583,-84.46528,Bolton Road between Marietta Blvd and South Cobb D,Atlanta,Fulton,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10276/download,RP,small_red
+10277,Athens-Clarke County - Dunlap Rd (SL) MSWL,33.92472,-83.26333,"Hwy 78 East, Dunlap Road",Athens,Clarke,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10277/download,L,small_green 
+10278,Butts County - Brownlee Road Landfill,33.27417,-83.96917,Brownlee Road,Jackson,Butts,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10278/download,L,small_green 
+10281,Rabun Apparel (formerly Rabun Mills),34.95444,-83.37917,398 Kellys Creek Road,Rabun Gap,Rabun,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10281/download,RP,small_red
+10282,4th Street Landfill (Brunswick Airport),31.18583,-81.47722,4th St & Community Action Drive,Brunswick,Glynn,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10282/download,L,small_green 
+10283,Ben Hill County - Joshlyn Road MSWL,31.74333,-83.20667,Joshlyn Rd,Fitzgerald,Ben Hill,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10283/download,L,small_green 
+10286,Button Gwinnett Landfill,33.92333,-84.04639,Arnold Road off Hwy 29,Lawrenceville,Gwinnett,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10286/download,RP,small_red
+10288,Columbus Municipal Landfill,32.39389,-84.96583,South Lumpkin Road,Columbus,Muscogee,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10288/download,L,small_green 
+10289,Cordele-Crisp City-County Landfill,31.86528,-83.75167,3354 Hwy 41 South,Cordele,Crisp,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10289/download,L,small_green 
+10291,Coweta County Landfill - Ishman Ballard Rd Phase 1A,33.36889,-84.85667,Ishman Ballard Rd.,Newnan,Coweta,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10291/download,L,small_green 
+10292,Crymes Landfill,33.87194,-84.18528,6321 Lawrenceville Hwy,Tucker,Gwinnett,2/5/97,I,https://epd.georgia.gov/document/pdf/23-10292/download,RP,small_red
+10294,Walker Road Landfill (formerly 11th Street Landfill),32.79889,-83.61056,2027 Walker Swamp Road,Macon,Bibb,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10294/download,L,small_green 
+10297,Ben Gober Landfill,33.87583,-84.17778,411 Mimosa Dr. (off US 29),Tucker,Gwinnett,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10297/download,A,small_yellow
+10304,Old City Landfill,31.89667,-82.58833,Intersection of Amanda Thomas Rd. and Barney Rd.,Hazlehurst,Jeff Davis,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10304/download,L,small_green 
+10305,Old Hazlehurst Solid Waste Disposal Site,31.90028,-82.59722,McEachin Landing Road,Hazlehurst,Jeff Davis,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10305/download,L,small_green 
+10308,Allied Industrial Park - NPL Site,32.77694,-83.64333,600 Guy Paine Road,Macon,Bibb,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10308/download,RP,small_red
+10310,Polk County Landfill,34.00694,-85.16472,US Hwy 278 (4.4 miles east of Cedartown),Cedartown,Polk,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10310/download,L,small_green 
+10311,Production Anodizing Corp./D.H. Farms,31.11889,-83.43806,1460 Industrial Blvd.,Adel,Cook,6/29/94,I,https://epd.georgia.gov/document/pdf/23-10311/download,RP,small_red
+10317,T Street Dump,31.16556,-81.50833,West end of T Street,Brunswick,Glynn,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10317/download,RP,small_red
+10324,"Forstmann & Company, Inc. (TCE spill)",32.53472,-82.87972,161 Nathaniel Drive,East Dublin,Laurens,6/29/94,V,https://epd.georgia.gov/document/pdf/23-10324/download,A,small_yellow
+10327,Palmetto Tire Fire,33.51000,-84.72472,0 Marcy Lane,Palmetto,Coweta,6/29/94,II,https://epd.georgia.gov/document/pdf/23-10327/download,A,small_yellow
+10329,Mathis Brothers - South Marbletop Road Landfill - NPL Site,34.79722,-85.37778,South Marble Top Road,Lafayette,Walker,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10329/download,RP,small_red
+10330,Cedartown Industries - NPL Site,34.00889,-85.26444,404 South Furnace Street,Cedartown,Polk,6/29/94,IV,https://epd.georgia.gov/document/pdf/23-10330/download,RP,small_red
+10333,"Apollo Industries, Inc.",33.83722,-84.50083,1850 South Cobb Industrial Blvd,Smyrna,Cobb,8/15/94,V,https://epd.georgia.gov/document/pdf/23-10333/download,RP,small_red
+10334,"Polychem, LTD",34.84361,-84.98028,2305 Dover Street,Dalton,Whitfield,10/4/94,II,https://epd.georgia.gov/document/pdf/23-10334/download,RP,small_red
+10337,Wallace Lake Road Dump,33.72167,-84.70556,3045 Wallace Lake Rd,Douglasville,Douglas,10/17/94,I,https://epd.georgia.gov/document/pdf/23-10337/download,A,small_yellow
+10340,"CPI Plastics, L.L.C.",33.34306,-84.79361,434 Corinth Road,Newnan,Coweta,10/17/94,IV,https://epd.georgia.gov/document/pdf/23-10340/download,RP,small_red
+10346,"SAFT America, Inc.",30.80222,-83.28778,711 Gil Harbin Industrial Blvd.,Valdosta,Lowndes,11/22/94,IV,https://epd.georgia.gov/document/pdf/23-10346/download,RP,small_red
+10348,Bumper Distributors of Atlanta,33.74333,-84.40889,471 Peters Street SW,Atlanta,Fulton,11/23/94,I,https://epd.georgia.gov/document/pdf/23-10348/download,A,small_yellow
+10351,ARAMARK Uniform Services,32.06583,-81.04583,2610 Causton Bluff Road,Savannah,Chatham,11/29/94,V,https://epd.georgia.gov/document/pdf/23-10351/download,RP,small_red
+10352,Atlanta Gas Light Company - Griffin MGP Site,33.24389,-84.26833,314 West College Street,Griffin,Spalding,1/11/95,V,https://epd.georgia.gov/document/pdf/23-10352/download,RP,small_red
+10353,Marzone/Chevron - NPL Site OU2 (formerly Golden Seed Site),31.42972,-83.50194,Golden Road,Tifton,Tift,1/3/95,IV,https://epd.georgia.gov/document/pdf/23-10353/download,RP,small_red
+10354,Barnett Shoals Road,33.92528,-83.34083,1860 S Barnett Shoals Road,Athens,Clarke,3/9/95,I,https://epd.georgia.gov/document/pdf/23-10354/download,A,small_yellow
+10355,General Time Corporation,33.98000,-83.39389,100 Newton Bridge Road,Athens,Clarke,1/30/95,V,https://epd.georgia.gov/document/pdf/23-10355/download,RP,small_red
+10360,Douglas & Lomason Company,33.58361,-85.09417,1001 Alabama Street,Carrollton,Carroll,3/13/95,V,https://epd.georgia.gov/document/pdf/23-10360/download,RP,small_red
+10365,Goldberg Brothers,33.43861,-81.99389,241 Dan Bowles Road,Augusta,Richmond,4/6/95,I,https://epd.georgia.gov/document/pdf/23-10365/download,A,small_yellow
+10366,"Forstmann & Company, Inc.  (1,1-DCA Site)",32.53472,-82.87972,161 Nathaniel Drive,East Dublin,Laurens,4/6/95,V,https://epd.georgia.gov/document/pdf/23-10366/download,A,small_yellow
+10367,Sun Laboratories of Atlanta,33.75750,-84.55111,701 Wharton Circle,Atlanta,Fulton,4/10/95,II,https://epd.georgia.gov/document/pdf/23-10367/download,A,small_yellow
+10371,Southern States Phosphate & Fertilizer Co.,32.07333,-81.06250,1600 East President St.,Savannah,Chatham,5/23/98,V,https://epd.georgia.gov/document/pdf/23-10371/download,RP,small_red
+10372,"Truman Parkway, Phase II",32.06944,-81.07472,President Street,Savannah,Chatham,5/8/95,II,https://epd.georgia.gov/document/pdf/23-10372/download,A,small_yellow
+10376,"Loef Company, Inc. (The)",33.98167,-83.34250,590 Old Hull Road,Athens,Clarke,6/5/95,V,https://epd.georgia.gov/document/pdf/23-10376/download,RP,small_red
+10382,"GNB Technologies, Inc.",32.43611,-84.93194,3639 Joy Rd.,Columbus,Muscogee,7/24/95,IV,https://epd.georgia.gov/document/pdf/23-10382/download,RP,small_red
+10384,J. Strom Thurmond Lake Airstrip #1,33.66000,-82.24778,North of 221  &  West of Boating Club Road,Appling,Columbia,8/11/95,I,https://epd.georgia.gov/document/pdf/23-10384/download,RP,small_red
+10385,Baldwin County Sanitary Landfill,32.96528,-83.33306,170 Union Hill Church Road,Milledgeville,Baldwin,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10385/download,L,small_green 
+10386,Laurens County Municipal Solid Waste Landfill,32.56083,-82.99306,County Landfill Road.,Dublin,Laurens,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10386/download,L,small_green 
+10387,Hightower Road  MSW Landfill - Phase 2,34.32972,-84.25639,9480 Old Federal Road,Ball Ground,Forsyth,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10387/download,L,small_green 
+10388,Madison County Sanitary Landfill 2&3 (SL),34.09833,-83.20361,Martin Foote Road (Colbert Road),Danielsville,Madison,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10388/download,L,small_green 
+10389,Morgan County Municipal Solid Waste Landfill,33.63194,-83.45306,2480 Athens Highway (Hwy 441 North),Madison,Morgan,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10389/download,L,small_green 
+10390,Screven County Municipal Solid Waste Landfill,32.74444,-81.68361,Rocky Ford Road west of Waters Station Road,Sylvania,Screven,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10390/download,L,small_green 
+10391,Statesboro/Bulloch County Lakeview Rd. Landfill,32.48083,-81.78972,Lakeview Road,Statesboro,Bulloch,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10391/download,L,small_green 
+10392,Clayton Co. SR3- Lovejoy Site #2 MSWL,33.43861,-84.30667,11866 Hastings Bridge Road,Lovejoy,Clayton,8/4/95,IV,https://epd.georgia.gov/document/pdf/23-10392/download,L,small_green 
+10393,Tift Site,33.66694,-84.42583,South Martin Street,East Point,Fulton,8/21/95,I,https://epd.georgia.gov/document/pdf/23-10393/download,RP,small_red
+10395,"Hunter Army Airfield, Fire Training Area",32.01444,-81.14417,Northwest portion of airfield,Savannah,Chatham,8/25/95,II,https://epd.georgia.gov/document/pdf/23-10395/download,RP,small_red
+10401,"Forstmann & Company, Inc. (Old Burn Pit)",32.54028,-82.88528,161 Nathaniel Drive,East Dublin,Laurens,10/20/95,II,https://epd.georgia.gov/document/pdf/23-10401/download,A,small_yellow
+10402,Central of Georgia Railroad Company - Macon Site,32.82389,-83.63444,Ash St. and MLK Jr. Blvd.,Macon,Bibb,11/8/95,II,https://epd.georgia.gov/document/pdf/23-10402/download,RP,small_red
+10404,Celanese Fiber Company,34.27222,-85.16750,Between Riverside Parkway and Burwell Creek,Rome,Floyd,1/10/96,II,https://epd.georgia.gov/document/pdf/23-10404/download,RP,small_red
+10405,"AMC International, Inc.",34.70778,-84.95500,310 Brookhollow Industrial Boulevard,Dalton,Whitfield,1/3/96,V,https://epd.georgia.gov/document/pdf/23-10405/download,RP,small_red
+10406,"McKenzie Tank Lines, Inc.",32.13778,-81.15278,111 Grange Rd.,Port Wentworth,Chatham,1/5/96,V,https://epd.georgia.gov/document/pdf/23-10406/download,RP,small_red
+10422,Stephenson Chemical Company,33.62917,-84.46917,2444 West Point Road,College Park,Fulton,9/12/96,I,https://epd.georgia.gov/document/pdf/23-10422/download,A,small_yellow
+10426,Hoxsie's Cleaners (Former),32.07167,-84.23222,106 South Lee Street,Americus,Sumter,12/20/96,I,https://epd.georgia.gov/document/pdf/23-10426/download,A,small_yellow
+10427,Vulcan Performance Chemicals (Former),33.81917,-84.50167,5544 Oakdale Road,Smyrna,Cobb,11/15/96,V,https://epd.georgia.gov/document/pdf/23-10427/download,RP,small_red
+10428,Home Oil,31.37778,-84.94500,223 Cherry Avenue,Blakely,Early,1/24/97,II,https://epd.georgia.gov/document/pdf/23-10428/download,RP,small_red
+10429,ARAMARK Uniform Services,30.84889,-83.99167,202 N. Cassidy Road,Thomasville,Thomas,1/24/97,V,https://epd.georgia.gov/document/pdf/23-10429/download,RP,small_red
+10430,Rental Uniform Service of Griffin,33.22528,-84.27917,1156 Uniform Road,Griffin,Spalding,3/19/97,V,https://epd.georgia.gov/document/pdf/23-10430/download,RP,small_red
+10437,"GIW Industries, Inc.",33.45694,-82.18806,5000 Wrightsboro Road,Grovetown,Columbia,2/10/97,II,https://epd.georgia.gov/document/pdf/23-10437/download,RP,small_red
+10438,Jones County Municipal Solid Waste Landfill,32.98333,-83.53417,Cumslo Road,Gray,Jones,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10438/download,L,small_green 
+10440,Blue Ribbon Dry Cleaners,32.05861,-81.10444,2021 Montgomery Street,Savannah,Chatham,3/3/97,I,https://epd.georgia.gov/document/pdf/23-10440/download,RP,small_red
+10441,Cascade Springs Dry Cleaner,33.72167,-84.50639,1180 Utoy Springs Rd. SW,Atlanta,Fulton,4/2/97,I,https://epd.georgia.gov/document/pdf/23-10441/download,A,small_yellow
+10443,Mindis Recycling-Shredding Division,33.80889,-84.46333,2100 Spink Street,Atlanta,Fulton,6/15/98,II,https://epd.georgia.gov/document/pdf/23-10443/download,RP,small_red
+10445,White County - Duke's Creek MSW  Landfill,34.66972,-83.76083,Asbestos Road/Hwy 75 Alternate,Cleveland,White,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10445/download,L,small_green 
+10446,Macon County SR 49 North MSWL,32.36472,-84.01944,SR 49 North,Oglethorpe,Macon,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10446/download,L,small_green 
+10447,Dougherty Co. - Fleming Rd. MSW Landfill,31.53278,-84.02833,3600 Fleming Road,Albany,Dougherty,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10447/download,L,small_green 
+10448,Spalding County - Yamacraw Road MSWL,33.25750,-84.15944,350 Parham Road,Griffin,Spalding,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10448/download,L,small_green 
+10449,Griffin - Shoal Creek Road Landfill,33.25278,-84.37583,281 Shoal Creek Road,Griffin,Spalding,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10449/download,L,small_green 
+10450,Burke County Landfill,33.08000,-81.96528,804 Landfill Road,Waynesboro,Burke,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10450/download,L,small_green 
+10451,Fayette County - 1st Manassas Mile Road MSWLF,33.43833,-84.47667,1st Manassas Mile Road,Fayetteville,Fayette,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10451/download,L,small_green 
+10452,"Colquitt Co. - CR 15, Sunset, Phase I MSWLF",31.09111,-83.84528,1816 Shade Murphy Road,Moultrie,Colquitt,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10452/download,L,small_green 
+10453,Lowndes County-State Road 31 MSWL,30.67639,-83.32250,State Road 31,Clyattville,Lowndes,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10453/download,L,small_green 
+10454,Chattooga County - Penn Bridge Rd Ph 1 (SL) MSWL,34.50583,-85.29639,Penn Bridge Road,Summerville,Chattooga,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10454/download,L,small_green 
+10455,"Washington County Landfill-Kaolin Road, Site #2",32.95583,-82.83528,1862 Kaolin Road,Sandersville,Washington,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10455/download,L,small_green 
+10456,Barnesville-Goggins Road MSWL,33.06583,-84.13778,157 Crawford Road,Barnesville,Lamar,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10456/download,L,small_green 
+10457,Houser's Mill Road MSWLF,32.57167,-83.76056,Clint Howard Road,Fort Valley,Peach,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10457/download,L,small_green 
+10458,Habersham County Pea Ridge Road Landfill,34.52583,-83.58833,Frank Arrowood Rd.,Cornelia,Habersham,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10458/download,L,small_green 
+10459,Seaboard Industrial Blvd. Site,33.80833,-84.43167,Seaboard Industrial Blvd.,Atlanta,Fulton,3/14/97,II,https://epd.georgia.gov/document/pdf/23-10459/download,RP,small_red
+10460,"Ware County-US 82, Waresboro MSWL",31.27111,-82.46972,4497 Lovett Road,Waresboro,Ware,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10460/download,L,small_green 
+10461,"Stephens County SR 145, Phases 2 & 3 MSWL",34.54028,-83.30917,106 Landfill Circle (off SR 145/Liberty Hill Rd),Toccoa,Stephens,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10461/download,L,small_green 
+10462,Wilkes County-CR 40 MSWL,33.69528,-82.73778,150 Landfill Road,Washington,Wilkes,3/27/97,IV,https://epd.georgia.gov/document/pdf/23-10462/download,L,small_green 
+10464,Vopak Terminal Savannah,32.11667,-81.13333,"Georgia Port Auth Gate No. 2, Turner & Hart St.",Garden City,Chatham,4/22/97,III,https://epd.georgia.gov/document/pdf/23-10464/download,RP,small_red
+10466,"Baychem, Inc.",34.04028,-84.61417,3200 Moon Station Road,Kennesaw,Cobb,6/13/97,V,https://epd.georgia.gov/document/pdf/23-10466/download,RP,small_red
+10467,Bleckley County Municipal Landfill,32.42139,-83.30944,794 E GA Hwy 26,Cochran,Bleckley,4/28/97,IV,https://epd.georgia.gov/document/pdf/23-10467/download,L,small_green 
+10472,Parker Hannifin Corp./Abex NWL Div.,32.51639,-82.94444,2010 Academy Ave.,Dublin,Laurens,7/25/97,V,https://epd.georgia.gov/document/pdf/23-10472/download,RP,small_red
+10474,Bekaert Corporation,34.22000,-85.17028,"301 Darlington Drive, SE",Rome,Floyd,7/25/97,V,https://epd.georgia.gov/document/pdf/23-10474/download,RP,small_red
+10475,LaGrange - Municipal Solid Waste Landfill,33.04750,-84.95583,2233 Greenville Road (Highway 109),LaGrange,Troup,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10475/download,L,small_green 
+10476,Calhoun - Harris Rd. Phase 4 (L),34.49167,-84.99361,788 Harris Beamer Road,Calhoun,Gordon,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10476/download,L,small_green 
+10477,Ocilla - SR 32 East MSWL,31.59694,-83.14000,State Highway 32 East,Wray,Irwin,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10477/download,L,small_green 
+10478,Heard Co. - Frolona Rd. MSWL,33.30139,-85.17722,Salem Road,Franklin,Heard,6/24/97,IV,https://epd.georgia.gov/document/pdf/23-10478/download,L,small_green 
+10479,Greene County - US 278 West MSWL,33.61417,-83.10222,Old Union Point Rd. & Landfill Rd.,Union Point,Greene,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10479/download,L,small_green 
+10480,"Jackson County - SR 82 North, Phase II MSWL",34.14500,-83.55056,170 Fowler Drive,Jefferson,Jackson,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10480/download,L,small_green 
+10481,"Arch Wood Protection, Inc. (fka Hickson Corporation)",33.66139,-84.32639,1579 Koppers Road,Conley,DeKalb,6/30/97,IV,https://epd.georgia.gov/document/pdf/23-10481/download,RP,small_red
+10482,Rockyface-Westside Municipal Solid Waste Landfill,34.75000,-85.04694,2598 Landfill Road,Rockyface,Whitfield,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10482/download,L,small_green 
+10484,Rabun Co. - Eastman Mountain Road Landfill,34.80972,-83.40972,"E of Highway 441, S of Boen Creek Rd & Longview Rd",Clayton,Rabun,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10484/download,L,small_green 
+10485,"Forsyth, Old Brent Rd. MSWL",33.01861,-83.95611,Old Brent Road,Forsyth,Monroe,7/30/97,IV,https://epd.georgia.gov/document/pdf/23-10485/download,L,small_green 
+10486,Orkin Pest Control,32.46278,-84.93000,3709 Buena Vista Road,Columbus,Muscogee,7/31/97,II,https://epd.georgia.gov/document/pdf/23-10486/download,RP,small_red
+10490,Lumpkin Co. - Barlow  Rd. MSWL,34.52444,-83.99917,Barlow  Rd. off State Hwy. 9,Dahlonega,Lumpkin,8/14/97,IV,https://epd.georgia.gov/document/pdf/23-10490/download,L,small_green 
+10494,Ruby Quarry Asphalt Plant Site,32.92361,-83.49556,Pitts Chapel Road,Gray,Jones,12/8/97,V,https://epd.georgia.gov/document/pdf/23-10494/download,RP,small_red
+10495,5998  Fairburn Road - Dry Cleaners,33.75083,-84.72944,5998 Fairburn Road,Douglasville,Douglas,1/8/98,I,https://epd.georgia.gov/document/pdf/23-10495/download,A,small_yellow
+10497,Savannah Dry Cleaners,32.03694,-81.08972,4110 Waters Avenue,Savannah,Chatham,2/5/98,I,https://epd.georgia.gov/document/pdf/23-10497/download,A,small_yellow
+10498,General Chemical Corporation,33.67083,-84.43583,1427 Central Ave.,East Point,Fulton,2/20/98,V,https://epd.georgia.gov/document/pdf/23-10498/download,RP,small_red
+10499,Eagle Rockbridge Shopping Center,33.78750,-84.21139,4450 Rockbridge Road,Stone Mountain,DeKalb,3/10/98,V,https://epd.georgia.gov/document/pdf/23-10499/download,RP,small_red
+10502,Transco Railcar Facility (Former),32.82611,-83.62750,861 Seventh Street,Macon,Bibb,3/19/98,V,https://epd.georgia.gov/document/pdf/23-10502/download,RP,small_red
+10505,Station at Vinings (The),33.86556,-84.46972,2810 Paces Ferry Road,Atlanta,Cobb,4/17/98,V,https://epd.georgia.gov/document/pdf/23-10505/download,RP,small_red
+10508,Aladdin Cleaners,33.98833,-84.53194,1525 Canton Road,Marietta,Cobb,7/27/98,I,https://epd.georgia.gov/document/pdf/23-10508/download,A,small_yellow
+10510,"Star Laundry, Inc. (Fabracare)",32.55250,-83.88778,204 S. Camellia Blvd.,Fort Valley,Peach,7/30/98,II,https://epd.georgia.gov/document/pdf/23-10510/download,RP,small_red
+10511,Macon MGP Site,32.83444,-83.62056,137 Mulberry Street,Macon,Bibb,7/24/98,V,https://epd.georgia.gov/document/pdf/23-10511/download,RP,small_red
+10513,Circle K Store #5259,33.96472,-84.41472,4706 Lower Roswell Road,Marietta,Cobb,9/18/98,II,https://epd.georgia.gov/document/pdf/23-10513/download,RP,small_red
+10515,"Sechem, Inc.",33.96972,-84.18306,4580 S. Berkeley Lake Road,Norcross,Gwinnett,10/23/98,V,https://epd.georgia.gov/document/pdf/23-10515/download,RP,small_red
+10518,North Park Pavilion Shopping Center,33.90250,-84.48167,2468 Windy Hill Road,Marietta,Cobb,1/5/99,II,https://epd.georgia.gov/document/pdf/23-10518/download,A,small_yellow
+10521,Hunter Army Airfield - MCA Barracks,32.02556,-81.13722,Strachan Ave. &  Douglas St.,Savannah,Chatham,1/12/99,II,https://epd.georgia.gov/document/pdf/23-10521/download,RP,small_red
+10523,American Amalgamated/Executive Dry Cleaners,33.90694,-84.10861,3880 Lawrenceville Highway,Lawrenceville,Gwinnett,2/11/99,V,https://epd.georgia.gov/document/pdf/23-10523/download,RP,small_red
+10524,"Wheelers Manufacturing Company, Inc.",32.80833,-83.63722,2889 Waterville Road,Macon,Bibb,2/16/99,I,https://epd.georgia.gov/document/pdf/23-10524/download,A,small_yellow
+10538,Flags Village Shopping Center,33.77778,-84.56583,356 Riverside Pkwy,Austell,Cobb,7/30/99,I,https://epd.georgia.gov/document/pdf/23-10538/download,A,small_yellow
+10540,Dawson Manufacturing Company,31.76667,-84.41944,"300 Industrial Boulevard, SE",Dawson,Terrell,5/7/99,V,https://epd.georgia.gov/document/pdf/23-10540/download,RP,small_red
+10542,Roswell Station,34.00528,-84.39056,1000 Marietta Highway,Roswell,Fulton,4/7/99,V,https://epd.georgia.gov/document/pdf/23-10542/download,A,small_yellow
+10543,"United Technologies Automotive, Inc.",33.45028,-82.53889,1884 Warrenton Hwy NW,Thomson,McDuffie,4/12/99,V,https://epd.georgia.gov/document/pdf/23-10543/download,RP,small_red
+10547,Rayloc Facility,33.77167,-84.52472,600 Rayloc Drive,Atlanta,Fulton,6/11/99,V,https://epd.georgia.gov/document/pdf/23-10547/download,RP,small_red
+10548,RentRite Property,33.77278,-84.52639,"4220 Martin Luther King, Jr. Drive",Atlanta,Fulton,6/11/99,II,https://epd.georgia.gov/document/pdf/23-10548/download,RP,small_red
+10553,Georgia Air National Guard/Savannah/Site 8,32.12972,-81.18583,East of Bldg. 1911 in vicinity drainage ditch,Savannah,Chatham,9/15/99,II,https://epd.georgia.gov/document/pdf/23-10553/download,RP,small_red
+10573,Louisiana Pacific Corp. - Statesboro,32.41972,-81.80417,Veterans Memorial Parkway,Statesboro,Bulloch,8/24/99,V,https://epd.georgia.gov/document/pdf/23-10573/download,RP,small_red
+10577,Albany Warehouse Company Site,31.60139,-84.15417,1701 North Washington Street,Albany,Dougherty,8/23/99,I,https://epd.georgia.gov/document/pdf/23-10577/download,RP,small_red
+10583,"Pavilion Cleaners, Riverdale Mall",33.54278,-84.40167,286 Hwy. 138,Riverdale,Clayton,10/5/99,V,https://epd.georgia.gov/document/pdf/23-10583/download,RP,small_red
+10586,Brown Steel Contractors - Broad Street Facility,33.37333,-84.79750,57 East Broad Street,Newnan,Coweta,10/15/99,V,https://epd.georgia.gov/document/pdf/23-10586/download,RP,small_red
+10587,"STSE, Inc.",31.17472,-81.49111,1900 Second Street,Brunswick,Glynn,10/15/99,II,https://epd.georgia.gov/document/pdf/23-10587/download,RP,small_red
+10590,Central of Georgia Railroad Company - Battlefield Park,32.07583,-81.10000,650 W. Jones St.,Savannah,Chatham,11/12/99,II,https://epd.georgia.gov/document/pdf/23-10590/download,RP,small_red
+10591,"Southern Motors of Savannah, Inc.",31.98972,-81.12972,10300 Abercorn Extension,Savannah,Chatham,12/10/99,V,https://epd.georgia.gov/document/pdf/23-10591/download,RP,small_red
+10594,Old National Shopping Center,33.58944,-84.47083,6055 Old National Highway,College Park,Fulton,12/7/99,V,https://epd.georgia.gov/document/pdf/23-10594/download,RP,small_red
+10611,CSXT Depriest Signal Shop,32.06833,-81.08500,641 East Liberty Street,Savannah,Chatham,2/10/00,V,https://epd.georgia.gov/document/pdf/23-10611/download,RP,small_red
+10614,Legion Industries,33.10194,-82.00750,370 Mills Road,Waynesboro,Burke,3/14/00,V,https://epd.georgia.gov/document/pdf/23-10614/download,RP,small_red
+10620,Cherokee Shopping Center,33.44000,-82.02389,1966 Kissingbower Road,Augusta,Richmond,4/21/00,V,https://epd.georgia.gov/document/pdf/23-10620/download,RP,small_red
+10625,Washington Manufacturing Company,32.94250,-82.80500,308 East Montgomery Street,Tennille,Washington,5/5/00,I,https://epd.georgia.gov/document/pdf/23-10625/download,A,small_yellow
+10627,Liberty Oil and Refining,31.13139,-83.70500,312 East Yount Street,Moultrie,Colquitt,5/11/00,II,https://epd.georgia.gov/document/pdf/23-10627/download,A,small_yellow
+10628,Coastal Plains Treating Company,31.43000,-83.50389,812 E. Golden Road,Tifton,Tift,6/23/01,II,https://epd.georgia.gov/document/pdf/23-10628/download,A,small_yellow
+10635,Del Cook Lumber Company,31.12806,-83.42833,9th Street West,Adel,Cook,9/19/00,I,https://epd.georgia.gov/document/pdf/23-10635/download,RP,small_red
+10636,One Hour Martinizing,33.94000,-84.18000,2070 Beaver Ruin Road,Norcross,Gwinnett,9/25/00,II,https://epd.georgia.gov/document/pdf/23-10636/download,RP,small_red
+10640,K & D Cleaners (assoc. with Peach Orchard NPL),33.41861,-82.02417,2114 Lumpkin Road,Augusta,Richmond,12/15/00,II,https://epd.georgia.gov/document/pdf/23-10640/download,A,small_yellow
+10641,"Tronox/Kerr McGee Pigments, Inc. (Former)",32.08222,-81.02583,100 Seaport Blvd.,Savannah,Chatham,10/18/00,II,https://epd.georgia.gov/document/pdf/23-10641/download,RP,small_red
+10643,Berrien County Landfill,31.12778,-83.23861,CR28 & CR48,Nashville,Berrien,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10643/download,L,small_green 
+10645,Quitman - SR 333 Landfill,30.75194,-83.54750,SR - 333,Quitman,Brooks,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10645/download,L,small_green 
+10646,Bryan County - US 280 Mill Creek MSWLF,32.15333,-81.50972,7392 E. Highway 280,Ellabell,Bryan,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10646/download,L,small_green 
+10647,Camden County Vacuna Road LF,30.78111,-81.69000,Vacuna Road,Kingsland,Camden,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10647/download,L,small_green 
+10648,Carroll County / Carrollton SR 166 LF,33.55111,-85.15361,State Road 166 (Simonton Mill Road),Carrollton,Carroll,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10648/download,L,small_green 
+10649,Chatham County Landfill,32.05806,-81.21472,1327 Dean Forest Road,Savannah,Chatham,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10649/download,L,small_green 
+10650,Cherokee County - Blalock Road Landfill,34.14889,-84.48389,470 Blalock Road,Canton,Cherokee,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10650/download,L,small_green 
+10651,Coffee County Landfill,31.57250,-82.89556,Landen Road (CR 129) and SR 206,Douglas,Coffee,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10651/download,L,small_green 
+10652,Columbia County - Baker Place Road MSWLF,33.48917,-82.22889,590 Baker Place Road,Grovetown,Columbia,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10652/download,L,small_green 
+10654,Dawson County Shoal Hole Road MSWL,34.43861,-84.11972,55 Transportation Lane,Dawsonville,Dawson,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10654/download,L,small_green 
+10656,Dooly County - CR 101 MSWLF,32.12556,-83.84722,CR 101,Vienna,Dooly,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10656/download,L,small_green 
+10657,Douglas County Landfill - Cedar Mt/Worthan Rd Phase 1,33.76556,-84.81083,1755 County Services Road,Douglasville,Douglas,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10657/download,L,small_green 
+10658,Blakely - Howell Street / Pit Road MSWLF,31.40056,-84.92889,Corner of Howell Street and Pit Road,Blakely,Early,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10658/download,L,small_green 
+10659,Elbert County Landfill,34.13500,-82.78083,2188 Hulmes Chapel Road,Elberton,Elbert,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10659/download,L,small_green 
+10660,Emanuel Co. - SR 297 Swainsboro (SL),32.51639,-82.33278,SR 297 & Old Nunez Road,Swainsboro,Emanuel,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10660/download,L,small_green 
+10661,Fannin County Landfill,34.89861,-84.34972,SR 5 and Tom Boyd Road,Blue Ridge,Fannin,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10661/download,L,small_green 
+10662,Franklin County - Harrison Bridge Road MSWLF,34.34194,-83.22806,Harrison Bridge Road,Carnesville,Franklin,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10662/download,L,small_green 
+10663,Fulton County Landfill,33.66917,-84.56556,Merk / Miles Road,Atlanta,Fulton,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10663/download,L,small_green 
+10664,Gilmer County SR 52 - Tower Road MSWLF,34.71389,-84.49056,456 Tower Road,Ellijay,Gilmer,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10664/download,L,small_green 
+10665,Glynn Co. - Cate Road C&D MSWLF,31.25861,-81.52444,1000 Pritchard Island Road,Brunswick,Glynn,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10665/download,L,small_green 
+10666,Haralson County Landfill (US 78 Bremen),33.69917,-85.22944,Landfill Road,Bremen,Haralson,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10666/download,L,small_green 
+10667,Hart County Landfill,34.31389,-82.93917,Landfill Road,Hartwell,Hart,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10667/download,L,small_green 
+10668,West Asbury Road Phase II MSWL,33.43222,-84.17028,West Asbury Road,McDonough,Henry,10/31/00,IV,https://epd.georgia.gov/document/pdf/23-10668/download,L,small_green 
+10669,Jefferson County - US 1 (Avera Rd) MSWLF,33.03083,-82.40944,1159 Clarks Mill Road,Louisville,Jefferson,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10669/download,L,small_green 
+10670,Lamar County - Grove Street Extension MSWLF,33.08583,-84.20833,172 Roger Brown Drive,Barnesville,Lamar,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10670/download,L,small_green 
+10671,Lee County - SR 32 MSWLF,31.73306,-84.12028,759 Hwy 32 East,Leesburg,Lee,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10671/download,L,small_green 
+10672,Liberty County - Limerick Road MSWLF,31.84278,-81.39611,Limerick Road,Limerick,Liberty,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10672/download,L,small_green 
+10673,Valdosta - Wetherington Lane SWLF,30.82389,-83.35972,Wetherington Lane,Valdosta,Lowndes,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10673/download,L,small_green 
+10675,McIntosh County - King Road MSWLF,31.51333,-81.48250,King Road,Eulonia,McIntosh,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10675/download,L,small_green 
+10676,Mitchell County - SR 3A MSWLF,31.16861,-84.16917,State Road 3,Pelham,Mitchell,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10676/download,L,small_green 
+10677,Murray County - US 411 Westside MSWLF,34.68056,-84.73056,6585 US 411,Chatsworth,Murray,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10677/download,L,small_green 
+10678,Newton County - Lower River Road MSWL,33.55139,-83.89528,205 Lower River Road,Porterdale,Newton,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10678/download,L,small_green 
+10679,Pickens Co.  - Jones Mountain Road Westside MSWLF,34.54167,-84.47528,Jones Mountain Road,Talking Rock,Pickens,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10679/download,L,small_green 
+10680,Pierce County - SR 121 MSWLF,31.34917,-82.21250,SR 121 / County Farm Road,Blackshear,Pierce,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10680/download,L,small_green 
+10682,Terrell County - U. S. 82 MSWLF,31.74139,-84.41944,3108 Albany Highway,Dawson,Terrell,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10682/download,L,small_green 
+10683,Tifton - Omega / Eldorado Road MSWLF,31.35750,-83.53667,445 Mitchell Store Road,Tifton,Tift,1/21/01,IV,https://epd.georgia.gov/document/pdf/23-10683/download,L,small_green 
+10684,Towns County - SR 288 MSWLF,34.92722,-83.74639,S. R. 288,Hiawassee,Towns,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10684/download,L,small_green 
+10685,"Upson County - Zorn Street Phase 2, 3 MSWLF",32.86361,-84.32444,Department of Transportation Drive,Thomaston,Upson,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10685/download,L,small_green 
+10686,Wayne County - Goose Creek Phase 1 MSWLF,31.66444,-81.91556,Highway 169 N,Jesup,Wayne,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10686/download,L,small_green 
+10687,Whitfield Co./Dalton-Old Dixie Hwy Phase 2 4 & 5 MSWLF,34.65139,-84.95028,Old Dixie Road,Dalton,Whitfield,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10687/download,L,small_green 
+10688,Wilkinson Co. - Hwy. 57 Public Works Camp MSWLF,32.83333,-83.26417,State Highway 57,Irwinton,Wilkinson,1/24/01,IV,https://epd.georgia.gov/document/pdf/23-10688/download,L,small_green 
+10693,Basket Creek Drum Disposal Site,33.59083,-84.81639,7840 Basket Creek Road,Douglasville,Douglas,1/18/01,I,https://epd.georgia.gov/document/pdf/23-10693/download,RP,small_red
+10695,Junction Cleaners,34.01500,-84.49528,2635 Sandy Plains Road,Marietta,Cobb,2/28/01,I,https://epd.georgia.gov/document/pdf/23-10695/download,RP,small_red
+10696,"Hercules, Inc.",32.08806,-81.14778,3000 Louisville Road,Savannah,Chatham,3/9/01,V,https://epd.georgia.gov/document/pdf/23-10696/download,RP,small_red
+10701,Alternate Energy Resources - NPL Site,33.45417,-82.03722,2736 Walden Drive,Augusta,Richmond,8/16/01,II,https://epd.georgia.gov/document/pdf/23-10701/download,RP,small_red
+10703,"Swainsboro Electro Plating, Inc.",32.55889,-82.33694,Intersection of Hwy 4 and Empire Expressway,Swainsboro,Emanuel,9/24/01,I,https://epd.georgia.gov/document/pdf/23-10703/download,A,small_yellow
+10707,"Specialty Stampings, L.L.C.",31.14194,-83.42778,423 North Mill Street,Adel,Cook,11/16/01,V,https://epd.georgia.gov/document/pdf/23-10707/download,RP,small_red
+10708,Busby  Cleaners,31.85194,-81.60000,302  W. Memorial Drive,Hinesville,Liberty,12/3/01,I,https://epd.georgia.gov/document/pdf/23-10708/download,A,small_yellow
+10711,Candler County S.R. 121 Metter # 021-001D(SL),32.45556,-82.06472,842 Landfill Road,Metter,Candler,12/31/01,IV,https://epd.georgia.gov/document/pdf/23-10711/download,L,small_green 
+10712,Union County MSW Landfill,34.89333,-83.95972,Deep South Farm Road,Blairsville,Union,12/31/01,IV,https://epd.georgia.gov/document/pdf/23-10712/download,L,small_green 
+10713,Effingham County - SR 17 MSWLF,32.30611,-81.40361,Watts Road,Guyton,Effingham,12/31/01,IV,https://epd.georgia.gov/document/pdf/23-10713/download,L,small_green 
+10714,Turner County - SR 112 Ashburn Phase 3 MSWLF,31.73583,-83.57500,S. R. 112,Ashburn,Turner,1/4/02,IV,https://epd.georgia.gov/document/pdf/23-10714/download,L,small_green 
+10715,Durand MSW Landfill,32.96583,-84.78056,Ogletree Road,Durand,Meriwether,1/4/02,IV,https://epd.georgia.gov/document/pdf/23-10715/download,L,small_green 
+10716,Buford - McEver Road MSWLF,34.12833,-84.01639,5734 Little Mill Road,Buford,Gwinnett,1/4/02,IV,https://epd.georgia.gov/document/pdf/23-10716/download,L,small_green 
+10718,Sugar Hill - Appling Road MSWLF,34.12083,-84.03778,1379 Appling Road,Sugar Hill,Gwinnett,1/4/02,IV,https://epd.georgia.gov/document/pdf/23-10718/download,L,small_green 
+10719,Crawford County - SR 341 / Hopewell Road MSWLF,32.77389,-83.99944,3604 Fairplay Hill Road,Musella,Crawford,1/7/02,IV,https://epd.georgia.gov/document/pdf/23-10719/download,L,small_green 
+10720,Alma - Radio Station Road MSWLF,31.52028,-82.43472,Radio Station Road,Alma,Bacon,1/1/02,IV,https://epd.georgia.gov/document/pdf/23-10720/download,L,small_green 
+10721,Cairo - 6th Avenue (SL) MSWLF,30.88194,-84.22833,6th Avenue,Cairo,Grady,1/7/02,IV,https://epd.georgia.gov/document/pdf/23-10721/download,L,small_green 
+10722,Johnson County - SR 15 Wrightsville Ph 2 (SL) MSWLF,32.68194,-82.71000,Liberty Grove CH Rd,Wrightsville,Johnson,1/7/02,IV,https://epd.georgia.gov/document/pdf/23-10722/download,L,small_green 
+10723,Sumter County Landfill,32.06528,-84.27778,324 McMath Mill Road,Americus,Sumter,1/11/02,IV,https://epd.georgia.gov/document/pdf/23-10723/download,L,small_green 
+10724,Taylor's Dry Cleaning (assoc. with Peach Orchard NPL),33.42028,-82.01944,2708 Peach Orchard Road,Augusta,Richmond,1/7/02,II,https://epd.georgia.gov/document/pdf/23-10724/download,RP,small_red
+10730,One-Hour Cleanerizing (assoc. with Peach Orchard NPL),33.42389,-82.01889,2618 Peach Orchard Road,Augusta,Richmond,2/25/02,II,https://epd.georgia.gov/document/pdf/23-10730/download,RP,small_red
+10732,National Smelting and Refining,33.79278,-84.40194,400 & 430 Bishop Street,Atlanta,Fulton,3/5/02,V,https://epd.georgia.gov/document/pdf/23-10732/download,RP,small_red
+10734,"C & D Technologies, Inc.",33.67583,-84.04694,1835 Industrial Boulevard,Conyers,Rockdale,3/27/02,V,https://epd.georgia.gov/document/pdf/23-10734/download,RP,small_red
+10736,"Albany MGP, Former",31.58639,-84.14778,N. Front Street at W. Society Avenue,Albany,Dougherty,6/24/02,V,https://epd.georgia.gov/document/pdf/23-10736/download,RP,small_red
+10737,Atlantic Cotton Mills,32.84194,-83.65694,2486 Mailey Ave,Macon,Bibb,5/22/02,V,https://epd.georgia.gov/document/pdf/23-10737/download,RP,small_red
+10738,"O'Neill Manufacturing, Inc.",34.26944,-85.15556,102 Anderson Street,Rome,Floyd,7/30/02,II,https://epd.georgia.gov/document/pdf/23-10738/download,A,small_yellow
+10739,"Daniel Measurement and Control, Inc.",32.48722,-81.72889,19267 Highway 301 North,Statesboro,Bulloch,7/31/02,V,https://epd.georgia.gov/document/pdf/23-10739/download,RP,small_red
+10740,Unitog Company Facility (Former),33.75500,-84.55083,25-C Enterprise Blvd. SW,Atlanta,Fulton,9/19/02,V,https://epd.georgia.gov/document/pdf/23-10740/download,RP,small_red
+10741,Chem-Am,33.06000,-84.97194,3562 Hogansville Road (Highway 29),LaGrange,Troup,9/23/02,I,https://epd.georgia.gov/document/pdf/23-10741/download,A,small_yellow
+10742,GA DOT Jesup District Office Complex,31.59500,-81.86778,204 North Highway 301,Jesup,Wayne,10/10/02,V,https://epd.georgia.gov/document/pdf/23-10742/download,RP,small_red
+10744,Klemic Property / Augusta Ordnance Depot (Former),33.46000,-82.00194,1775 Essie McIntyre Blvd. (Government Road),Augusta,Richmond,10/3/02,II,https://epd.georgia.gov/document/pdf/23-10744/download,RP,small_red
+10747,Simmons Plating Works,33.74528,-84.40111,"409 and 395 Whitehall Street, S.W.",Atlanta,Fulton,11/7/02,II,https://epd.georgia.gov/document/pdf/23-10747/download,A,small_yellow
+10748,Shakerag Cleaners,33.62083,-84.23500,1781 Panola Road,Ellenwood,Henry,11/14/02,II,https://epd.georgia.gov/document/pdf/23-10748/download,A,small_yellow
+10749,Walton County Landfill,33.83500,-83.75000,SR 11 / Roscoe Davis Road,Monroe,Walton,12/4/02,II,https://epd.georgia.gov/document/pdf/23-10749/download,L,small_green 
+10750,Vienna Street Dump,32.56000,-83.87389,Vienna Street,Fort Valley,Peach,1/7/03,II,https://epd.georgia.gov/document/pdf/23-10750/download,L,small_green 
+10751,Lanier County-Studstill Road MSWLF,31.06694,-83.07806,Studstill Road,Lakeland,Lanier,1/10/03,IV,https://epd.georgia.gov/document/pdf/23-10751/download,L,small_green 
+10752,Jeff Davis - CR 20 MSWLF,31.86056,-82.68694,Nina Gay Rd,Hazlehurst,Jeff Davis,1/10/03,IV,https://epd.georgia.gov/document/pdf/23-10752/download,L,small_green 
+10758,Huntridge Shopping Center,33.98667,-84.35139,8540 Roswell Road,Atlanta,Fulton,3/19/03,II,https://epd.georgia.gov/document/pdf/23-10758/download,RP,small_red
+10760,Vantran Electric,32.99139,-82.38556,1600 Highway 17 South,Louisville,Jefferson,4/2/03,I,https://epd.georgia.gov/document/pdf/23-10760/download,A,small_yellow
+10765,Manchester Tank Company,34.01194,-85.27694,811 West Avenue,Cedartown,Polk,5/15/03,V,https://epd.georgia.gov/document/pdf/23-10765/download,RP,small_red
+10766,Ram Leather Care,33.66583,-84.03694,968 SW Klondike Court,Conyers,Rockdale,6/23/03,II,https://epd.georgia.gov/document/pdf/23-10766/download,RP,small_red
+10769,Lanier Plaza Shopping Center,31.15917,-81.47917,1919-1945 Glynn Avenue,Brunswick,Glynn,8/28/03,I,https://epd.georgia.gov/document/pdf/23-10769/download,RP,small_red
+10771,MENA Rockmart Facility,34.01389,-85.06389,308 Prospect Road,Rockmart,Polk,10/16/03,V,https://epd.georgia.gov/document/pdf/23-10771/download,RP,small_red
+10775,"Pennington Seed, Inc. Warehouse (Former)",32.21083,-82.39000,1609 US Highway 280 (aka E First St.),Vidalia,Toombs,3/10/04,V,https://epd.georgia.gov/document/pdf/23-10775/download,RP,small_red
+10776,Arthur C. Curtis Property,33.91694,-84.24361,2425 Pleasantdale Road,Doraville,Gwinnett,3/26/03,II,https://epd.georgia.gov/document/pdf/23-10776/download,RP,small_red
+10782,"Polymer Specialties, Inc.",34.98111,-85.43500,203 Hooker Cemetery Road,Wildwood,Dade,6/23/04,I,https://epd.georgia.gov/document/pdf/23-10782/download,RP,small_red
+10783,"Amercord, Inc.",31.92444,-82.68278,Ocmulgee Street Industrial Complex,Lumber City,Telfair,6/23/04,I,https://epd.georgia.gov/document/pdf/23-10783/download,A,small_yellow
+10784,"B & M Wood Products, Inc.",31.12694,-82.58306,4137 Manor Millwood Road,Manor,Ware,6/29/04,IV,https://epd.georgia.gov/document/pdf/23-10784/download,RP,small_red
+10788,Southside Cleaners,31.97361,-81.13306,12405 White Bluff Road,Savannah,Chatham,9/8/04,V,https://epd.georgia.gov/document/pdf/23-10788/download,RP,small_red
+10789,"Dry Clean, USA",31.98167,-81.14806,11434 Abercorn Street,Savannah,Chatham,8/31/04,I,https://epd.georgia.gov/document/pdf/23-10789/download,A,small_yellow
+10790,Love Your Clothes Cleaners,34.01306,-84.49278,2520 E. Piedmont Road,Marietta,Cobb,9/2/04,V,https://epd.georgia.gov/document/pdf/23-10790/download,A,small_yellow
+10792,"Amrep, Inc. - Marietta",33.97583,-84.53944,990 Industrial Park Drive,Marietta,Cobb,9/3/04,II,https://epd.georgia.gov/document/pdf/23-10792/download,RP,small_red
+10797,Weddington Estate,33.76056,-84.50500,184 Fairburn Road NW,Atlanta,Fulton,3/11/05,I,https://epd.georgia.gov/document/pdf/23-10797/download,A,small_yellow
+10798,Tara Shopping Center,33.52000,-84.36278,8564 Tara Boulevard,Jonesboro,Clayton,4/26/05,V,https://epd.georgia.gov/document/pdf/23-10798/download,RP,small_red
+10799,"Concord Fabrics, Inc.",33.08722,-83.28472,80 Highway 22 West,Milledgeville,Baldwin,5/13/05,V,https://epd.georgia.gov/document/pdf/23-10799/download,RP,small_red
+10804,Cork's Fabricare,31.22333,-81.47833,6199 Altama Avenue,Brunswick,Glynn,6/1/05,I,https://epd.georgia.gov/document/pdf/23-10804/download,RP,small_red
+10808,Lowe's Home Improvement Warehouse,33.55083,-84.41389,7458 Highway 85,Riverdale,Clayton,7/19/05,V,https://epd.georgia.gov/document/pdf/23-10808/download,RP,small_red
+10810,Pineview Plaza Shopping Center,33.58694,-84.47278,6149 Old National Highway,College Park,Fulton,7/21/05,I,https://epd.georgia.gov/document/pdf/23-10810/download,RP,small_red
+10812,All Rental,33.93361,-84.21889,6045 Buford Highway,Norcross,Gwinnett,7/27/05,I,https://epd.georgia.gov/document/pdf/23-10812/download,RP,small_red
+10813,Franklin Street Site,33.80778,-84.64333,6000 Franklin Street,Austell,Cobb,7/27/05,V,https://epd.georgia.gov/document/pdf/23-10813/download,A,small_yellow
+10814,Jack's Cleaners,34.04056,-84.47750,2520 Shallowford Road,Marietta,Cobb,9/13/05,II,https://epd.georgia.gov/document/pdf/23-10814/download,RP,small_red
+10815,Hometown Cleaners (Former),33.58194,-83.48417,1281 Atlanta Hwy,Madison,Morgan,9/21/05,I,https://epd.georgia.gov/document/pdf/23-10815/download,A,small_yellow
+10816,Rolling Hills Landfill,33.61556,-84.41639,664 Lees Mills Road,College Park,Clayton,10/11/05,IV,https://epd.georgia.gov/document/pdf/23-10816/download,RP,small_red
+10817,Klouda Estate,32.55778,-83.84194,GA Hwy. 96 and Fullwood Road,Fort Valley,Peach,10/25/05,II,https://epd.georgia.gov/document/pdf/23-10817/download,RP,small_red
+10818,Estech General Chemicals Albany,31.59806,-84.15417,1600 North Jackson Street,Albany,Dougherty,10/28/05,II,https://epd.georgia.gov/document/pdf/23-10818/download,RP,small_red
+10819,VIP Cleaners (former),33.94139,-84.16417,4601 Satellite Blvd,Duluth,Gwinnett,10/31/05,V,https://epd.georgia.gov/document/pdf/23-10819/download,RP,small_red
+10825,"Coats American, Inc.",34.97750,-85.29389,122 Maple Street,Rossville,Walker,12/13/05,II,https://epd.georgia.gov/document/pdf/23-10825/download,RP,small_red
+10826,Chase Road Property,34.51778,-83.51194,522 Chase Road,Cornelia,Habersham,1/31/06,I,https://epd.georgia.gov/document/pdf/23-10826/download,RP,small_red
+10829,Square D Company (Former),33.79278,-84.43000,1401 Marietta Blvd. NW,Atlanta,Fulton,1/13/06,II,https://epd.georgia.gov/document/pdf/23-10829/download,RP,small_red
+10830,"Chemical Specialists and Development, Inc.",33.85194,-84.20278,2275 Tucker Industrial Road,Tucker,DeKalb,1/27/06,V,https://epd.georgia.gov/document/pdf/23-10830/download,RP,small_red
+10834,"Thomas & Co., Inc.",33.26667,-84.25889,1010 North Hill Street,Griffin,Spalding,5/24/06,II,https://epd.georgia.gov/document/pdf/23-10834/download,L,small_green 
+10837,Trinity Dry Cleaners,31.58667,-84.18472,1320 Dawson Road,Albany,Dougherty,6/23/06,II,https://epd.georgia.gov/document/pdf/23-10837/download,RP,small_red
+10838,Hydro Aluminum,31.18000,-83.74194,371 Industrial Parkway,Moultrie,Colquitt,7/23/06,I,https://epd.georgia.gov/document/pdf/23-10838/download,RP,small_red
+10839,Gibson - CR 50 Ph. 1 MSWLF,33.21083,-82.60944,County Road 50,Gibson,Glascock,6/28/06,IV,https://epd.georgia.gov/document/pdf/23-10839/download,L,small_green 
+10840,Richmond County - Dean's Bridge Road,33.35000,-82.13694,4330 Dean's Bridge Road,Blythe,Richmond,7/28/06,IV,https://epd.georgia.gov/document/pdf/23-10840/download,L,small_green 
+10843,Floyd County - Berryhill Road Sanitary Landfill,34.30889,-85.27778,0 Berryhill Road,Rome,Floyd,9/8/06,IV,https://epd.georgia.gov/document/pdf/23-10843/download,L,small_green 
+10844,North Berkeley Lake Road Site,33.98333,-84.16861,North Berkeley Lake Road,Duluth,Gwinnett,9/25/06,V,https://epd.georgia.gov/document/pdf/23-10844/download,RP,small_red
+10846,Robert Bosch Tool Corporation,34.52833,-83.28250,1241 Meadowbrook Drive,Toccoa,Stephens,9/30/06,V,https://epd.georgia.gov/document/pdf/23-10846/download,RP,small_red
+10849,Toto Distribution (Former),32.08194,-81.11000,1000 Industry Drive,Savannah,Chatham,1/16/07,II,https://epd.georgia.gov/document/pdf/23-10849/download,RP,small_red
+10851,"Stewart County Landfill, CR 145 S Ph 2 (SL)",32.03750,-84.77722,CR 145,Lumpkin,Stewart,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10851/download,L,small_green 
+10852,Warren County - Shoals Street #2 MSWL,33.39889,-82.67111,597 Macon Hwy,Warrenton,Warren,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10852/download,L,small_green 
+10853,Worth County SR 112 MSWL,31.55306,-83.79250,797 Ephesus Church Road,Sylvester,Worth,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10853/download,L,small_green 
+10854,Calhoun County SR 45 Morgan (SL),31.53500,-84.65000,25753 Highway 45,Morgan,Calhoun,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10854/download,L,small_green 
+10855,Paulding County - Gulledge Road MSWL,34.02000,-84.80083,75 County Services Lane,Dallas,Paulding,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10855/download,L,small_green 
+10856,Harris County Hamilton Road E MSWL,32.74444,-84.81278,4078 Barnes Mill Road,Hamilton,Harris,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10856/download,L,small_green 
+10857,Randolph County Brooksville Road Ph 1 MSWL,31.79611,-84.75056,2122 District Line Road,Cuthbert,Randolph,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10857/download,L,small_green 
+10858,Decatur County SR 309 MSWL,30.83694,-84.56778,SR 309 (West Street and Fowlston Road),Bainbridge,Decatur,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10858/download,L,small_green 
+10859,Walker County Marble Top Road MSWL,34.83528,-85.36500,5120 Marble Top Road,Chickamauga,Walker,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10859/download,L,small_green 
+10860,Schley County CR 65 MSWL,32.24806,-84.23056,594 William Grove Road (CR 65),Ellaville,Schley,4/24/07,IV,https://epd.georgia.gov/document/pdf/23-10860/download,L,small_green 
+10863,Paper Mill Road Undeveloped Tract,33.95250,-83.96278,Paper Mill Road and Springlake Road,Lawrenceville,Gwinnett,3/26/07,II,https://epd.georgia.gov/document/pdf/23-10863/download,L,small_green 
+10867,"Coastal Concrete, Inc.",32.08194,-81.12778,2337 Louisville Road,Savannah,Chatham,7/27/07,V,https://epd.georgia.gov/document/pdf/23-10867/download,RP,small_red
+10869,"Kemira Chemicals, Inc. Marietta Facility",33.99222,-84.52806,1654 West Oak Drive,Marietta,Cobb,8/22/07,II,https://epd.georgia.gov/document/pdf/23-10869/download,RP,small_red
+10872,Hock's One Hour Martinizing/Embassy Cleaners,33.92694,-84.49194,1045 Franklin Gateway,Marietta,Cobb,7/17/08,II,https://epd.georgia.gov/document/pdf/23-10872/download,RP,small_red
+10874,Proctor Square Cleaners,34.00083,-84.14278,3090 Buford Highway,Duluth,Gwinnett,9/7/07,II,https://epd.georgia.gov/document/pdf/23-10874/download,RP,small_red
+10875,Silverstein's Cleaners,33.51194,-82.08806,3818 Washington Road,Martinez,Columbia,10/5/07,II,https://epd.georgia.gov/document/pdf/23-10875/download,RP,small_red
+10876,Glennville Wood Preserving,31.94667,-81.94806,739 W. Barnard St. (State Hwy 23),Glennville,Tattnall,10/19/07,II,https://epd.georgia.gov/document/pdf/23-10876/download,A,small_yellow
+10880,Dry Cleaning Depot,34.02778,-84.35778,1073 Alpharetta Street,Roswell,Fulton,11/5/07,V,https://epd.georgia.gov/document/pdf/23-10880/download,RP,small_red
+10882,W.F. Taylor Co. Inc.,34.68861,-84.98944,209 Crown Lake Dr SE,Dalton,Whitfield,12/4/07,V,https://epd.georgia.gov/document/pdf/23-10882/download,RP,small_red
+10884,JNV Investments Group (f.k.a Professional Cleaners),33.76278,-84.19528,4800 Redan Road (a.k.a 4808 Redan Road),Stone Mountain,Dekalb,12/27/07,V,https://epd.georgia.gov/document/pdf/23-10884/download,RP,small_red
+10885,Plant McManus Substation,31.21278,-81.54500,1 Crispen Boulevard,Brunswick,Glynn,4/21/08,II,https://epd.georgia.gov/document/pdf/23-10885/download,RP,small_red
+10889,Lincoln County - CR 121/Prater Landfill,33.82250,-82.46333,CR 121,Lincolnton,Lincoln,4/18/08,IV,https://epd.georgia.gov/document/pdf/23-10889/download,L,small_green 
+10890,B&L Discount Auto,33.69278,-84.26083,3796 Flat Shoals Parkway,Decatur,DeKalb,4/25/08,V,https://epd.georgia.gov/document/pdf/23-10890/download,RP,small_red
+10891,431 Vine Street (assoc. with Westside Lead NPL Site),33.76639,-84.40722,431 Vine Street,Atlanta,Fulton,6/19/08,II,https://epd.georgia.gov/document/pdf/23-10891/download,RP,small_red
+10893,"Best Manufacturing Company,Armuchee Div",34.36417,-85.16917,29 Yarbrough Bend Rd NE,Rome,Floyd,8/26/08,V,https://epd.georgia.gov/document/pdf/23-10893/download,RP,small_red
+10896,City of Waycross Blackwell Road Landfill,31.19500,-82.34806,1501 Blackwell Street,Waycross,Ware,12/31/08,IV,https://epd.georgia.gov/document/pdf/23-10896/download,L,small_green 
+10897,Rita's Dry Cleaners,33.86083,-84.33250,"1382 Dresden Drive, NE",Atlanta,DeKalb,1/20/09,II,https://epd.georgia.gov/document/pdf/23-10897/download,RP,small_red
+10900,Spears Mattress Company,34.23861,-85.17361,103 East 12th Street,Rome,Floyd,8/18/09,II,https://epd.georgia.gov/document/pdf/23-10900/download,RP,small_red
+10901,Roper Pump Company,34.21472,-83.48250,3475 Old Maysville Road,Commerce,Jackson,11/23/09,V,https://epd.georgia.gov/document/pdf/23-10901/download,RP,small_red
+10902,Rose City Cleaners (Former),30.83889,-83.98278,301 N. Broad Street,Thomasville,Thomas,11/10/09,V,https://epd.georgia.gov/document/pdf/23-10902/download,RP,small_red
+10903,Hunter Army Airfield/TCE Plume,32.01444,-81.14417,"685 Horace Emmet Wilson Boulevard, Building 1201",Savannah,Chatham,11/20/09,II,https://epd.georgia.gov/document/pdf/23-10903/download,RP,small_red
+10904,Carriage Cleaners (Former),33.85361,-84.38222,3617 Roswell Road,Atlanta,Fulton,4/5/10,II,https://epd.georgia.gov/document/pdf/23-10904/download,RP,small_red
+10905,CSXT Property on Feeley Avenue,32.07500,-81.11389,Feeley Avenue between Magazine St. & Stiles Ave.,Savannah,Chatham,3/25/10,V,https://epd.georgia.gov/document/pdf/23-10905/download,RP,small_red
+10909,Glynco Naval Air Station (Cotton Court Property),31.25194,-81.45222,"Lot 28, Airport Road and Indigo Drive",Brunswick,Glynn,5/12/10,II,https://epd.georgia.gov/document/pdf/23-10909/download,RP,small_red
+10910,110 North Main Street,31.18139,-83.78861,110 North Main Street,Moultrie,Colquitt,7/16/10,II,https://epd.georgia.gov/document/pdf/23-10910/download,RP,small_red
+10911,"DOT Sales and Supplies, Inc.",33.66722,-84.03944,880 and 884 Blacklawn Road,Conyers,Rockdale,9/3/10,I,https://epd.georgia.gov/document/pdf/23-10911/download,RP,small_red
+10912,Grantville Mill,33.23750,-84.83167,41 Industrial Way,Grantville,Coweta,8/31/10,V,https://epd.georgia.gov/document/pdf/23-10912/download,RP,small_red
+10913,Avalon Plant,34.50694,-83.21889,1068 Historic Highway 17,Toccoa,Stephens,9/24/10,V,https://epd.georgia.gov/document/pdf/23-10913/download,RP,small_red
+10916,McTeer Food and Fuel,33.45639,-81.96889,1237 Gordon Highway,Augusta,Richmond,3/11/11,II,https://epd.georgia.gov/document/pdf/23-10916-0/download,RP,small_red
+10919,2217 West Bay Street,32.09000,-81.12500,2217 West Bay Street,Savannah,Chatham,9/16/11,V,https://epd.georgia.gov/document/pdf/23-10919/download,RP,small_red
+10921,Joy Dry Cleaners/Lee's Shopping Center,31.82667,-81.61972,862 East Elma G. Miles Parkway,Hinesville,Liberty,8/29/11,II,https://epd.georgia.gov/document/pdf/23-10921/download,RP,small_red
+10922,One Hour Martinizing Cleaners (Former),33.92389,-84.57278,1115 Powder Springs Street,Marietta,Cobb,4/11/14,II,https://epd.georgia.gov/document/pdf/23-10922/download,RP,small_red
+10923,"Rice Iron and Metals, Inc. (Former)",30.81889,-83.30528,2000 West Savannah Avenue,Valdosta,Lowndes,9/25/12,V,https://epd.georgia.gov/document/pdf/23-10923/download,RP,small_red
+10924,"Amrep, Inc. - Cartersville (Former)",34.15500,-84.79167,63 Industrial Drive,Cartersville,Bartow,1/23/13,II,https://epd.georgia.gov/document/pdf/23-10924/download,RP,small_red
+10925,Duck Barnes Dry Cleaners,30.84667,-83.30278,905 Baytree Road,Valdosta,Lowndes,8/15/13,II,https://epd.georgia.gov/document/pdf/23-10925/download,RP,small_red
+10926,Guardian Automotive Corporation (dba SRG Global Covington),33.61278,-83.83500,10116 Industrial Boulevard,Covington,Newton,12/6/13,II,https://epd.georgia.gov/document/pdf/23-10926/download,RP,small_red
+10927,Westside Cleaners (former),33.93500,-84.55667,700 Sandtown Road,Marietta,Cobb,11/22/13,V,https://epd.georgia.gov/document/pdf/23-10927/download,RP,small_red
+10928,Pike County - County Farm Road MSWL,33.12111,-84.36472,County Farm Road,Zebulon,Pike,11/22/13,IV,https://epd.georgia.gov/document/pdf/23-10928/download,L,small_green 
+10929,Pilot Wastewater Treatment Plant,32.97278,-85.02667,2990 Whitesville Road,Lagrange,Troup,12/17/14,V,https://epd.georgia.gov/document/pdf/23-10929/download,RP,small_red
+10930,Cleveland Cleaners,34.59750,-83.76417,42 West Jarrard Street,Cleveland,White,11/2/15,II,https://epd.georgia.gov/document/pdf/23-10930/download,RP,small_red
+10931,Ideal Cleaners,33.03944,-85.02778,224 Greenville Street,LaGrange,Troup,3/9/15,V,https://epd.georgia.gov/document/pdf/23-10931/download,RP,small_red
+10932,Tropical Breeze Laundry,33.70806,-84.45444,1999 Campbellton Road,Atlanta,Fulton,5/31/16,II,https://epd.georgia.gov/document/pdf/23-10932/download,RP,small_red
+10933,E. Cohn Property (Former),32.45583,-84.98306,715 5th Street,Columbus,Muscogee,9/4/15,V,https://epd.georgia.gov/document/pdf/23-10933/download,RP,small_red
+10934,Spence Family Partnership,30.85722,-83.94806,15283 S US Hwy 19,Thomasville,Thomas,11/2/15,I,https://epd.georgia.gov/document/pdf/23-10934/download,RP,small_red
+10935,Woodward Dry Cleaners (Former),33.24472,-84.26528,131 West College Street,Griffin,Spalding,12/21/15,II,https://epd.georgia.gov/document/pdf/23-10935/download,RP,small_red
+10936,Brown and Brown Wrecker Service,33.89833,-84.28500,5828 New Peachtree Road,Doraville,Dekalb,12/2/15,II,https://epd.georgia.gov/document/pdf/23-10936/download,A,small_yellow
+10937,Occidental Chemical Corporation,33.39000,-81.99250,1620 Marvin Griffin Road,Augusta,Richmond,5/17/16,IV,https://epd.georgia.gov/document/pdf/23-10937/download,RP,small_red
+10938,East Coast Asphalt,31.22333,-82.36861,1108 M Street,Waycross,Ware,2/2/17,V,https://epd.georgia.gov/document/pdf/23-10938/download,RP,small_red
+10939,Noble Cleaners (Former),33.97028,-84.53444,786 Allgood Road,Marietta,Cobb,1/10/17,V,https://epd.georgia.gov/document/pdf/23-10939/download,RP,small_red
+10940,Star Cleaners (Former),32.46083,-83.73111,1109 Macon Street,Perry,Houston,1/31/17,II,https://epd.georgia.gov/document/pdf/23-10940/download,RP,small_red
+10941,US Cleaners,34.06833,-84.52056,4796 Canton Road,Marietta,Cobb,2/15/17,II,https://epd.georgia.gov/document/pdf/23-10941/download,RP,small_red
+10942,Nelms Drive Landfill,33.66944,-84.28083,1374 and 1388 Nelms Drive,Decatur,Dekalb,3/7/17,V,https://epd.georgia.gov/document/pdf/23-10942/download,L,small_green 
+10943,Milliken & Company,34.54639,-83.40139,9202 Ayersville Road,Toccoa,Stephens,3/10/17,I,https://epd.georgia.gov/document/pdf/23-10943/download,RP,small_red
+10944,U.S. Army - Fort Gillem - Southeast Burial Site,33.61806,-84.31806,Stephens Lake Road & South 3rd Street,Forest Park,Clayton,6/22/17,I,https://epd.georgia.gov/document/pdf/23-10944/download,RP,small_red
+10945,Master Kleen Site (Former),33.81472,-84.26972,2310 Lawrenceville Highway,Decatur,Dekalb,9/8/17,II,https://epd.georgia.gov/document/pdf/23-10945/download,RP,small_red
+10946,Albany Theater,31.58278,-84.15417,107 North Jackson Street,Albany,Dougherty,10/16/17,II,https://epd.georgia.gov/document/pdf/23-10946/download,RP,small_red
+10947,New Heritage Cleaners (Former),33.94333,-83.99306,418 Gwinnett Drive,Lawrenceville,Gwinnett,2/27/18,II,https://epd.georgia.gov/document/pdf/23-10947/download,RP,small_red
+10948,Agri-Cycle,34.19111,-83.72861,1184 Main Street,Talmo,Jackson,5/22/18,I,https://epd.georgia.gov/document/pdf/23-10948/download,A,small_yellow
+10949,60 Minute Cleaners,33.68194,-84.40694,525 Cleveland Avenue,Atlanta,Fulton,7/24/18,II,https://epd.georgia.gov/document/pdf/23-10949/download,RP,small_red
+10950,River Oak Plaza Shopping Center,33.88833,-84.06222,851 Oak Road,Lawrenceville,Gwinnett,2/19/19,V,https://epd.georgia.gov/document/pdf/23-10950/download,RP,small_red
+10951,Armstrong World Industries (Macon Plant) - NPL Site,32.76861,-83.65083,4520 Broadway Road,Macon,Bibb,4/2/19,IV,https://epd.georgia.gov/document/pdf/23-10951/download,RP,small_red
+10952,"AAA Asphalt Products, Inc.",32.68222,-83.70722,329 Smith Road,Byron,Peach,7/16/19,V,https://epd.georgia.gov/document/pdf/23-10952/download,RP,small_red
+10954,Bradley Circle Properties/Bradley Circle Landfill (Former),32.48944,-84.99278,2 & 5 27th Street,Columbus,Muscogee,6/23/20,II,https://epd.georgia.gov/document/pdf/23-10954/download,L,small_green 
+10955,Spalding Square Shopping Center,33.22056,-84.26889,1108 Zebulon Road,Griffin,Spalding,5/4/20,V,https://epd.georgia.gov/document/pdf/23-10955/download,RP,small_red
+10956,Ace Pole Company,31.25667,-82.29306,6352 Timber Lane,Blackshear,Pierce,5/28/20,V,https://epd.georgia.gov/document/pdf/23-10956/download,RP,small_red
+10957,Sunny Cleaner,33.49972,-84.24778,1920 Hudson Bridge Road,Stockbridge,Henry,3/1/21,II,https://epd.georgia.gov/document/pdf/23-10957/download,RP,small_red
+10958,Pine Grove/Appling County Herbicide Spill,31.81250,-82.45111,Norfolk Southern Railroad Crossing at Buck Head Rd,Pine Grove,Appling,10/8/21,I,https://epd.georgia.gov/document/pdf/23-10958/download,RP,small_red
+10959,455 Virgil Drive,34.73639,-84.96500,455 Virgil Drive,Dalton,Whitfield,10/28/21,II,https://epd.georgia.gov/document/pdf/23-10959/download,RP,small_red
+10960,15667 Alabama Highway,34.76833,-85.15000,15667 Alabama Highway,Rock Spring,Catoosa,10/28/21,II,https://epd.georgia.gov/document/pdf/23-10960/download,RP,small_red
+10961,21-Acre Undeveloped Parcel,33.81417,-84.48250,James Jackson Pkwy @ Chattahoochee River,Atlanta,Fulton,12/21/21,II,https://epd.georgia.gov/document/pdf/23-10961/download,RP,small_red
+10962,Piedmont Paints and Primer (Former),34.53639,-83.30111,80 Isaac Walker Road,Toccoa,Stephens,6/1/22,II,https://epd.georgia.gov/document/pdf/23-10962/download,RP,small_red
+10963,Aerospace Defense Coatings (ADC) - Main Plant,32.69833,-83.66333,7700 NE Industrial Blvd,Macon,Bibb,6/1/23,I,https://epd.georgia.gov/document/pdf/23-10963/download,RP,small_red
+10964,Aerospace Defense Coatings (ADC) - Grace Plant,32.70667,-83.66611,2790 Grace Road,Macon,Bibb,6/1/23,I,https://epd.georgia.gov/document/pdf/23-10964/download,RP,small_red
