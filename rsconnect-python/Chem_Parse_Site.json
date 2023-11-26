@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "/Users/kenminsoo/Desktop/Projects/Chem_Parse_Site",
+        "app_url": "https://kenminsoo.shinyapps.io/mvp_geohazard-graphdb/",
+        "app_id": 10630420,
+        "app_guid": null,
+        "title": "MVP GeoHazard-GraphDB",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
