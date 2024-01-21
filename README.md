@@ -3,6 +3,8 @@
 **Author:** Ken Nakatsu  
 **Date:** November 2023
 
+## Navigate to Supplementary.md for technical documentation regarding the project
+
 ![overview](Figure/overview.png)
 
 ## Python Shiny App (app.py stored here)
