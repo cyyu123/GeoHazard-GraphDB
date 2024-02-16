@@ -22,12 +22,7 @@ This supplementary documentation aims to provide an in-depth understanding of th
   - **History:** Neo4j is a graph database management system developed by Neo4j, Inc. Described as an ACID-compliant transactional database with native graph storage and processing, Neo4j is widely recognized for its performance in connected data operations.
   - **Use Case in Project:** Neo4j is used for creating, hosting, and managing the graph database. It allows for efficient representation and querying of complex relationships between various environmental data points, such as hazardous sites and chemicals.
 
-#### 3. Cypher Query Language
-
-- **Overview and History:** Cypher is a declarative graph query language that allows for expressive and efficient querying and updating of a graph database. It was developed by Neo4j for its graph database and is designed to be intuitive and easy to learn.
-- **Use Case in Project:** Cypher is used for querying the Neo4j database. It allows users to retrieve complex relational data, like finding all sites with a specific chemical attribute or establishing new relationships between nodes.
-
-#### 4. Data Sources
+#### 3. Data Sources
 
 - **EPD Hazardous Site Inventory, TOXRIC Database, and HSDB from Pubchem:** These sources provide comprehensive data on hazardous sites, chemical properties, and their environmental and health effects. Integrating these diverse data sets into a single graph database enables complex analyses that would be challenging with traditional relational databases.
 
