@@ -1,4 +1,0 @@
-shiny
-neo4j
-pandas
-plotly
